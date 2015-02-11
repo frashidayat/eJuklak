@@ -174,11 +174,10 @@ kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan
 sebagainya. 
 
 ### 1.4 Pengelola Fakultas
-
-|               **Senat** | **FTIS**              |
-|:-----------------------:|:---------------------:|
-| Ketua                   | Agus Sukmana, SSi, MSc|
+|                         |                       |
 |------------------------:|:----------------------|
+|                         |                       |
+| Ketua                   | Agus Sukmana, SSi, MSc|
 
 * **Senat FTIS**
     * **Ketua**: Agus Sukmana, SSi, MSc
