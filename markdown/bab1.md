@@ -175,6 +175,11 @@ sebagainya.
 
 ### 1.4 Pengelola Fakultas
 
+|               **Senat** | **FTIS**              |
+|:-----------------------:|:---------------------:|
+| Ketua                   | Agus Sukmana, SSi, MSc|
+|------------------------:|:----------------------|
+
 * **Senat FTIS**
     * **Ketua**: Agus Sukmana, SSi, MSc
     * **Sekretaris**: Philips Nicolas Gunawidjaja, BSc, PhD
