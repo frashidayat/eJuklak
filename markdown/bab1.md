@@ -174,14 +174,37 @@ kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan
 sebagainya. 
 
 ### 1.4 Pengelola Fakultas
-|                         |                       |
-|------------------------:|:----------------------|
-|                         |                       |
-| Ketua                   | Agus Sukmana, SSi, MSc|
 
-* **Senat FTIS**
-    * **Ketua**: Agus Sukmana, SSi, MSc
-    * **Sekretaris**: Philips Nicolas Gunawidjaja, BSc, PhD
-* **Dekanat**
-    * **Dekan**: Paulus Tjahjono Tjiang, SSi, PhD.
-    * **WD 1 (Akademik)**: Dr. Thomas Anung Basuki
+**Senat FTIS**
+
+|   Jabatan  |                  Nama                 |
+|-----------:|:--------------------------------------|
+|      Ketua | Agus Sukmana, SSi, MSc                |
+| Sekretaris | Philips Nicolas Gunawidjaja, BSc, PhD |
+
+**Dekanat**
+
+|                                   Jabatan | Nama                                            |
+|------------------------------------------:|:------------------------------------------------|
+|                                  Dekan    |    Paulus Cahyono Tjiang, SSi, PhD.             |
+|                      WD 1   (Akademik)    |    Dr. Thomas Anung Basuki                      |
+|        WD II (Keuangan dan Sumberdaya)    |    Maria Anestasia, SSi, MSi                    |
+|    WD III   (Kemahasiswaan dan Alumni)    |    Dr.rer.nat. Cecilia E.   Nugraheni, ST,MT    |
+
+**Program Studi Matematika**
+
+|   Jabatan  |                  Nama                 |
+|-----------:|:--------------------------------------|
+|      Ketua | Dr. Ferry Jaya Permana                |
+| Sekretaris | Livia Owen, SSi, MSi |
+
+**Program Studi Fisika**
+
+|                                   Jabatan | Nama                                            |
+|------------------------------------------:|:------------------------------------------------|
+|                                  Ketua    |    Philips Nicolas Gunawidjaja, BSc, PhD        |
+|                    KaLab. Fisika Dasar    |    Risti Suryantari, S.Si., M.Si.               |
+|     KaLab. Elektronika & Fisika Lanjut    |    Janto V. Sulungbudi, Drs.                    |
+
+**Program Studi Teknik Informatika**
+
