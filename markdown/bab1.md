@@ -208,3 +208,41 @@ sebagainya.
 
 **Program Studi Teknik Informatika**
 
+|                                   Jabatan | Nama                                            |
+|------------------------------------------:|-------------------------------------------------|
+|                                  Ketua    |    Dr. Thomas Anung Basuki                      |
+|                             Sekretaris    |    Lionov, SKom, MSc                            |
+|                       KaLab. Komputasi    |    Chandra Wijaya, ST, MT                       |
+|    WD III   (Kemahasiswaan dan Alumni)    |    Dr.rer.nat. Cecilia E. Nugraheni, ST,MT      |
+
+**Tata Usaha**
+
+|                                Jabatan | Nama                        |
+|---------------------------------------:|-----------------------------|
+|                              Kepala    |    Pranyoto Teguh Imanto    |
+|                  Kasubag   Akademik    |    Petrus Purnomo           |
+|      Kasubag Keuangan & Kepegawaian    |    Budi Santoso             |
+|    Kasubag   Kemahasiswaan & Alumni    |    Fransiscus Sudarno       |
+|         Kasubag Umum & Perlengkapan    |    Walip, A.Md              |
+|                     Staf   Akademik    |    Rikie Setiawan, S.AB.    |
+
+### 1.5 Pengelola Fakultas
+
+Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan website.
+
+|                                                                                   Guru Besar                                                                                  |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|    Prof   B. Suprapto Brotosiswojo, Dr. (Purdue University,USA)   Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.    Email:   bensupra@unpar.ac.id    |
+|                                                                               **Lektor Kepala**                                                                               |
+|          Agus Sukmana, Drs. (ITB), MSc (Twente Univ. – Belanda), studi S-3 (UPI):,Teori Peluang, Pengendalian Mutu, Statistika Elementer.,Email: asukmana@unpar.ac.id         |
+|                Aloysius Rusli, Dr, (Leeds University, UK): Fisika Polimer, Pengenalan Program Studi Fisika, Etika Profesi, Reologi. Email : arusli@unpar.ac.id                |
+|                                                                                                                                                                               |
+|                                                                                                                                                                               |
+|                                                                                                                                                                               |
+|                                                                                                                                                                               |
+|                                                                                                                                                                               |
+|                                                                                                                                                                               |
+|                                                                                                                                                                               |
+|                                                                                                                                                                               |
+|                                                                                                                                                                               |
+|                                                                                                                                                                               |
