@@ -14,7 +14,13 @@ Keberhasilan belajar mata kuliah ditetapkan segera setelah mahasiswa **menyelesa
 
 Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai **Bentuk Kegiatan**, yang masing-masing memiliki **Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut :
 
-table
+| Bentuk  Kegiatan |                      Komponen  Kegiatan                     |                  Angka                  |                    %                    |
+|:----------------:|:-----------------------------------------------------------:|:---------------------------------------:|:---------------------------------------:|
+| Perkuliahan      | Pelaksanaan Tugas                                           | Angka Rata-rata Tugas (ART)             | 20%-40%                                 |
+|                  | Tatap Muka                                                  | Angka Ujian Tengah Semester (UTS)       | 30%-50%                                 |
+|                  |                                                             | Angka Ujian Akhir Semester (UAS)        | 30%-50%                                 |
+| Seminar          | Penyajian, Diskusi/,Partisipasi,Penyusunan Makalah /Laporan | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |
+| Skripsi          | Penyusunan,dan Penyajian                                    | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |
 
 Berdasarkan pertimbangan akademik, Dekan dapat mengubah Komponen Evaluasi bagi suatu Bentuk Kegiatan seperti tersebut di atas,  sejauh tidak bertentangan dengan peraturan perundang-undangan yang berlaku.
 
@@ -26,7 +32,13 @@ Apabila seorang mahasiswa tidak dapat memenuhi salah satu komponen evaluasi yang
 
 Konversi **Angka Akhir (AA)** menjadi **Nilai Akhir (NA)** dilakukan dengan **Penilaian Acuan Patokan (PAP)** sebagai berikut :
 
-table
+| AA       | NA | Bobot NA |
+|----------|----|:--------:|
+| 80 - 100 | A  | 4        |
+| 70-79    | B  | 3        |
+| 60-69    | C  | 2        |
+| 50-59    | D  | 1        |
+| 0-49     | E  | 0        |
 
 Berdasarkan pertimbangan akademik, Dekan FTIS dapat memutuskan untuk melakukan konversi AA menjadi NA dalam suatu mata kuliah tertentu dengan **Penilaian Acuan Normal (PAN)**.
 
@@ -77,7 +89,12 @@ Jika persyaratan di atas tidak terpenuhi, maka mahasiswa yang bersangkutan **tid
 
 IPK dihitung dengan memperhatikan semua mata kuliah yang pernah ditempuh oleh mahasiswa, dan digunakan untuk menetapkan yudisium (sebutan) kelulusan, dengan ketentuan sbb.:
 
-table
+| IPK         | Yudisium                                                |
+|-------------|---------------------------------------------------------|
+| 2.00 - 2.75 | Memuaskan                                               |
+| 2.76 - 3.50 | Sangat Memuaskan                                        |
+| 3.51 - 4.00 | Dengan Pujian (masa studi terpakai **≤ 9 semester**)    |
+|             | Sangat Memuaskan (masa studi terpakai **> 9 semester**) |
 
 
 ###4.3 Kemampuan Bahasa Inggris Mahasiswa UNPAR
