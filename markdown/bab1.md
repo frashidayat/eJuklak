@@ -1,9 +1,91 @@
+Petunjuk Pelaksanaan Kegiatan Akademik Tahun 2014/2015
+======================================================
+
+![](images/unpar.png)
+
+FAKULTAS TEKNOLOGI INFORMASI DAN SAINS (FTIS)
+
+UNIVERSITAS KATOLIK PARAHYANGAN
+
+Jl. Ciumbuleuit 94 Bandung 40141
+
+Tlp. +62-22-204-1964 Ext. 707
+
+Faks. +62-22-204-2141
+
+ftis@unpar.ac.id
+
+http://www.unpar.ac.id
+
+Tim Penyusun
+
+* Cecilia Esti Nugraheni
+* Livia Owen
+* Farica Edgina Yosafat
+* Luciana Abednego
+* Pranyoto Teguh Imanto
+* Thomas Anung Basuki
+
+Copyright (c) 2014 FTIS UNPAR
+
+Kata Pengantar Dekan Fakultas Teknologi Informasi dan Sains Universitas Katolik Parahyangan
+-------------------------------------------------------------------------------------------
+
+Sejak berdirinya Fakultas Teknologi Informasi dan Sains (d/h Fakultas Matematika
+dan Ilmu Pengetahuan Alam) - Universitas Katolik Parahyangan pada tahun 1993,
+Fakultas berupaya untuk meningkatkan kualitas pelaksanaan Tridharma Perguruan
+Tinggi (Pengajaran - Penelitian - Pengabdian Kepada Masyarakat) secara bertahap
+dan berkesinambungan sesuai dengan visi dan misi yang diembannya. Pada tahun
+2007, Universitas Katolik Parahyangan berkomitmen untuk melaksanakan penjaminan
+mutu internal sesuai dengan ketentuan Peraturan Pemerintah Republik Indonesia
+Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan. Untuk menjamin bahwa
+standar-standar yang telah ditetapkan dalam Sistem Penjaminan Mutu Internal
+Universitas Katolik Parahyangan dapat terlaksana dengan baik, Fakultas
+menerbitkan Buku Petunjuk Pelaksanaan Kegiatan Akademik Fakultas Teknologi
+Informasi dan Sains Tahun Akademik 2013 - 2014 sebagai pedoman bagi seluruh
+civitas academica Fakultas dalam melaksanakan kegiatan akademik.
+
+Berdasarkan pengalaman dalam pengelolaan Fakultas, didapati sejumlah kasus
+kegagalan dalam pelaksanaan kegiatan akademik dan administrasi yang disebabkan
+karena ketidaktahuan civitas academica pada sejumlah ketentuan akademik dan
+administratif yang berlaku. Oleh karena itu, setiap anggota civitas academica
+Fakultas diharapkan mempelajari dan memahami dengan seksama setiap ketentuan
+yang tertuang dalam buku petunjuk pelaksanaan kegiatan akademik tersebut.
+Penerbitan buku petunjuk versi terbaru akan dilakukan secara rutin pada setiap
+awal tahun akademik, sehingga civitas academica di lingkungan Fakultas
+memperoleh informasi terkini tentang tatacara pelaksanaan kegiatan akademik yang
+berlaku di lingkungan Fakultas. Dengan demikian, diharapkan civitas academica
+Fakultas selalu mengacu pada informasi-informasi yang tercantum dalam buku
+petunjuk terkini dalam melaksanakan kegiatan akademik. Apabila dalam pelaksanaan
+kegiatan akademik ditemukan hal-hal yang kurang jelas dalam buku petunjuk
+tersebut, maka civitas academica dapat menghubungi para pimpinan di lingkungan
+Fakultas untuk memperoleh penjelasan. Beberapa hal yang belum tercantum dalam
+buku petunjuk ini akan disampaikan melalui papan pengumuman serta media
+komunikasi lainnya, dan akan diakomodasi dalam buku petunjuk pelaksanaan
+kegiatan akademik tahun akademik berikutnya.
+
+Semoga buku petunjuk ini dapat membantu kelancaran pelaksanaan kegiatan
+akademik, yang selanjutnya akan berdampak pada peningkatan kualitas pembelajaran
+yang berkesinambungan. Setiap kritik dan saran berkaitan dengan penyempurnaan
+buku ini sangat kami harapkan dan hargai.
+
+Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilkan.
+
+
+
+Bandung,     
+Dekan,
+
+
+Paulus Cahyono Tjiang, Ph.D.
+
+
 Bab 1: Pendahuluan
 ------------------
 
 ### 1.1 Sejarah Fakultas Teknologi Informasi dan Sains
 
-<p align="justify">Fakultas Teknologi Informasi dan Sains (FTIS) Universitas Katolik Parahyangan
+Fakultas Teknologi Informasi dan Sains (FTIS) Universitas Katolik Parahyangan
 (UNPAR) berawal dari Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA).
 Pendirian FMIPA telah dikukuhkan dengan terbitnya Surat Keputusan Menteri
 Pendidikan dan Kebudayaan Republik Indonesia nomor 34/D/O/1993 tanggal 20 April
@@ -11,9 +93,9 @@ Pendidikan dan Kebudayaan Republik Indonesia nomor 34/D/O/1993 tanggal 20 April
 studi FMIPA, yaitu program studi Matematika dan Fisika. Dengan terbitnya
 Keputusan Direktur Jenderal Pendidikan Tinggi Departemen Pendidikan dan
 Kebudayaan Republik Indonesia nomor: 420/DIKTI/Kep/1996 tanggal 8 Agustus 1996,
-ditetapkan status "terdaftar" pula untuk program studi Ilmu Komputer.</p>
+ditetapkan status "terdaftar" pula untuk program studi Ilmu Komputer.
 
-<p align="justify">Perubahan nama FMIPA menjadi Fakultas Teknologi Informasi dan Sains (FTIS)
+Perubahan nama FMIPA menjadi Fakultas Teknologi Informasi dan Sains (FTIS)
 terjadi karena adanya perubahan nama program studi Ilmu Komputer. Berdasarkan
 surat Direktur Jenderal Pendidikan Tinggi Departemen Pendidikan Nasional Nomor
 4382/D/T/2008 tertanggal 10 Desember 2008 perihal Ralat Perpanjangan Ijin
@@ -23,11 +105,11 @@ jurusan/program studi Teknik Informatika. Adanya perubahan nama ini membuat nama
 FMIPA sebagai naungan bagi Program Studi Teknik Informatika menjadi tidak
 selaras lagi. Perubahan nama FMIPA menjadi FTIS ini berdasarkan Keputusan
 Pengurus Yayasan Universitas Katolik Parahyangan Nomor : II/2009-04/05-SK
-tanggal 1 April 2009.</p>
+tanggal 1 April 2009.
 
-<p align="justify">Ketiga program studi tersebut saat ini telah memperoleh status akreditasi dari
+Ketiga program studi tersebut saat ini telah memperoleh status akreditasi dari
 Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT) dengan rincian sebagai
-berikut:</p>
+berikut:
 
 * Program Studi Matematika memperoleh status akreditasi dengan peringkat A
   (Amat baik) berdasarkan Keputusan BAN-PT Nomor029/BAN-PT/Ak-XIII/S1/XI/2010
@@ -59,10 +141,10 @@ Sebagai sebuah lembaga ilmiah, misi UNPAR adalah melaksanakan
   pengabdian kepada masyarakat; dan
 * pengabdian kepada masyarakat,
 
-<p align="justify">sesuai dengan sesanti Bakuning Hyang Mrih Guna Santyaya Bhakti, yang berarti
+sesuai dengan sesanti Bakuning Hyang Mrih Guna Santyaya Bhakti, yang berarti
 Berdasarkan Ketuhanan Menuntut Ilmu untuk Dibaktikan kepada Masyarakat.
 Melalui visi dan misi UNPAR, dirumuskanlah visi dan misi beserta tujuan FTIS
-UNPAR.</p>
+UNPAR.
 
 #### 1.2.1 VISI FTIS
 
@@ -72,7 +154,7 @@ Visi FTIS 2020 adalah sebagai berikut:
 > mengembangkan bidang-bidang teknologi informasi dan sains dengan mengangkat
 > potensi lokal pada tataran internasional untuk peningkatan martabat manusia".
 
-<p align="justify">FTIS UNPAR bertekad untuk menjadi komunitas akademik beriman, yaitu 
+FTIS UNPAR bertekad untuk menjadi komunitas akademik beriman, yaitu 
 masyarakat yang secara cerdas dan kritis senantiasa mencari, menjunjung 
 tinggi, dan menyebarluaskan kebenaran. Hal ini merupakan perwujudan dari 
 keyakinan kepada Tuhan Yang Maha Esa, sesuai dengan sesanti UNPAR 
@@ -100,7 +182,7 @@ di dalam hal di atas, FTIS UNPAR harus senantiasa mengembangkan potensi
 lokal ke tataran internasional. Oleh karena itu, pembangunan suasana 
 akademik yang kondusif merupakan bagian yang sangat penting dalam 
 pembentukan manusia yang bermartabat dan pengembangan potensi lokal 
-tersebut.</p>
+tersebut.
 
 #### 1.2.2 MISI FTIS
 
@@ -152,7 +234,7 @@ Sasaran FTIS adalah sebagai berikut :
 
 ### 1.3 Keberhasilan FTIS
 
-<p align="justify">Dalam kurun waktu 21 tahun sejak didirikan, FTIS telah menghasilkan 
+Dalam kurun waktu 21 tahun sejak didirikan, FTIS telah menghasilkan 
 1.097 lulusan sampai dengan 26 Februari 2014. Sebagian dari lulusan 
 tersebut, terutama dari prodi Teknik Informatika, membawa pula 
 sertifikasi internasional di bidang sistem teknologi jaringan melalui 
@@ -170,7 +252,7 @@ tim untuk mengikuti kompetisi pemrograman tingkat internasional yang
 diselenggarakan oleh organisasi ACM (Association of Computing 
 Machinery), kompetisi jaringan komputer CISCO NetRiders, mengikuti 
 kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan 
-sebagainya.</p>
+sebagainya.
 
 ### 1.4 Pengelola Fakultas
 
