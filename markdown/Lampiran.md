@@ -31,10 +31,29 @@
 |Wisuda                                 |Sabtu, 1 November 2014   |Sabtu, 28 Februari 2015|Sabtu, 8 Agustus 2015|
 
 ##LAMPIRAN 4##
-
+![](images/Lampiran4.png)
+![](images/Lampiran4.1.png)
+![](images/Lampiran4.2.png)
+![](images/Lampiran4.3.png)
+![](images/Lampiran4.4.png)
+![](images/Lampiran4.5.png)
 
 ##LAMPIRAN 5##
+![](images/Lampiran5.png)
+![](images/Lampiran5.1.png)
+![](images/Lampiran5.2.png)
 
 ##LAMPIRAN 6##
+![](images/Lampiran6.png)
+![](images/Lampiran6.1.png)
+
+##LAMPIRAN 7##
+![](images/Lampiran7.png)
+![](images/Lampiran7.1.png)
+![](images/Lampiran7.2.png)
+![](images/Lampiran7.3.png)
+![](images/Lampiran7.4.png)
+![](images/Lampiran7.5.png)
+
 
 
