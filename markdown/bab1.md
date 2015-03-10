@@ -314,7 +314,8 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 |                                                                                                       **Guru Besar**                                                                                                       |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |                           Prof   B. Suprapto Brotosiswojo, Dr. (Purdue University,USA)   Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.    Email:   bensupra@unpar.ac.id                          |
-|                                                                                                      **Lektor Kepala**                                                                                                     |
+|                                                                                                      
+**Lektor Kepala**                                                                                                     |
 |                               Agus Sukmana, Drs. (ITB), MSc (Twente Univ. – Belanda), studi S-3 (UPI):, Teori Peluang, Pengendalian Mutu, Statistika Elementer.,Email: asukmana@unpar.ac.id.                               |
 |                                      Aloysius Rusli, Dr, (Leeds University, UK):  Fisika Polimer, Pengenalan Program Studi Fisika, Etika Profesi, Reologi. Email : arusli@unpar.ac.id.                                     |
 |                                             Benny Yong SSi(UNPAR), MSi(ITB) :  Pemecahan Masalah Matematika, Teori Bilangan, Pemodelan Matematika. Email: benny_y@unpar.ac.id.                                             |
@@ -326,7 +327,8 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 |                            Sylvia Hastuti Sutanto, SSi(ITB), PhD(Australian National University) :  Fisika Matematika 3 & 4, Mekanika Hamiltonian, Dinamika Fluida. Email : sylvia@unpar.ac.id.                            |
 |                                 Marcys Wono Setya Budhi, PhD(University of Illinois - USA) :  Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar. Email : wono@math.itb.ac.id.                                |
 |                                         Veronica Sri Moertiono, ST(ITB), MT(ITB), Dr.(ITB) :  Basis Data, Penambangan Data, Projek Sistem Informasi. Email : moertini@unpar.ac.id.                                         |
-|                                                                                                         **Lektor**                                                                                                         |
+|                                                                                                         
+**Lektor**                                                                                                         |
 |           Cecilia Esti Nugraheni, ST(ITB), MT(ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians Universitaet – Germany) : Matematika Diskret, Jaringan Syarah Tiruan. Email : cheni@unpar.ac.id.           |
 |                                          Erwinna Chendra, SSi(UNPAR), MSi(ITB), Studi S-3 Matematika di ITB. Email : erwinna@unpar.ac.id. Website : http://www.unpar.ac.id/erwinna                                         |
 |                                                    Liem Chin, SSi(UNPAR), MSi(ITB) :  Matematika Diskret, Aljabar Linear, Komputasi Statistika. Email: chin@unpar.ac.id.                                                   |
@@ -334,7 +336,8 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 |                    Philips Nicolas Gunawidjaja, BSc(University of Warwick, UK), PhD. (Universiti of Warwick, UK) :  Keterampilan Fisika, Elektronika1 & 2, Struktur Materi. Email : philips@unpar.ac.id.                   |
 |                                              Rosa de Lima E.P, SSi(ITB), MT(ITB), Studi S-3 di UPI :  Sistem Informasi, Sistem Pendukung Keputusan. Email : rosad5@unpar.ac.id                                             |
 |                                           Fatah Kristiani, SSi(UNPAR), MSi(ITB), Studi S-3 Matematika di Universiti Pendidikan Sultan Idris, Malaysia. Email : farah@unpar.ac.id                                           |
-|                                                                                                      **Asisten Ahli**                                                                                                      |
+|                                                                                                      
+**Asisten Ahli**                                                                                                      |
 |                                                                       Elisati Hulu, ST(ITB), MT(ITB), Studi S-3 di ITB. Email : elisatih@unpar.ac.id                                                                       |
 |                                                      Gede Karya, ST(ITB), MT(ITB) :  Pemograman Aplikasi Bergerak, Analisis Proses Bisnis. Email: gkarya@unpar.ac.id.                                                      |
 |                                            Ivonne MArtin, SSi(UNPAR), MSc(TU Delft - Belanda) :  Studi S-3 Matematika di Leiden University, Belanda. Email : ivonne@unpar.ac.id.                                           |
@@ -345,7 +348,8 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 |                                   Taufik Limansyah, SSi(UNPAR), Studi S-2 Teknik Industri di UNPAR :  Kalkulus I, Kalkulus II, Fisika MAtematika I. Email : taufik.limansyah@unpar.ac.id                                   |
 |                         Thomas Anung Basuki, ST(ITB), MKom(UI), Dr.(University of Pisa - Italia) :  Pengantar Sistem Cerdas, Rekayasa Perangkat Lunak, Penulisan Ilmiah. Email : anung@unpar.ac.id                         |
 |                                            Maria Anestesia, SSi(ITB), MSi(ITB) :  Kalkulus 2, Persamaan Diferensial Biasa, Kalkulus Vektor. Email : maria.anestesia@unpar.ac.id                                            |
-|                                                                                                      **Golongan III**                                                                                                      |
+|                                                                                                      
+**Golongan III**                                                                                                      |
 |                                                           Chandra Wijaya, SKom(UNPAR), MT(ITB) : Jaringan Komputer, Sistem Digital. Email : chandraw@unpar.ac.id                                                           |
 |                 Elok Fidiani, SSi(UGM), MSc(TU Dresden) : Fisika Dasar, Fisika Statistik, Pengantar Fisika Material, Nanoteknologi dan Lingkungan. Email : elokfidiani@unpar.ac.id , elokfidiani@gmail.com.                |
 |                                 Flavina Catherine, SSi(UNPAR), MSi(ITB) : Fisika Dasar, Pengantar Fisika Nuklir, Fisika Kedokteran, Fisika Instumentasi Medis. Email : flavina@unpar.ac.id.                                |

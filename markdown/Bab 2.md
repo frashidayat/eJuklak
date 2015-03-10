@@ -26,7 +26,6 @@ Untuk matakuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
 2. Matakuliah pilihan dan matakuliah di prodi lain yang ekivalen dengannya, hanya dapat diperhitungkan salah satunya.
 
 #### 2.2 Matakuliah Prasyarat
-
 Matakuliah prasyarat adalah matakuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu matakuliah tertentu. Berkaitan dengan hal ini, terdapat tiga kategori:
 
 1. __Prasyarat tempuh__, artinya matakuliah tersebut telah terdaftar dalam rencana studi mahasiswa yang bersangkutan dan bernilai akhir A, B, C, D, atau E, walaupun tentunya kelulusan akan sangat menunjang penempuhan matakuliah berikutnya.
@@ -97,7 +96,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 |       MKU001      |                                                                                                                                                                                                                                                                                                                                                                                                                               Pendidikan Pancasila / Pancasila Education                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |                   | Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan pendidikan nilai (pedagogik). Dengan bantuan hermenutika mahasiswa diajak berpikir kritis terhadap segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui pendidikan Pancasila yang tujuannya adalah membangun kepribadian (character building) manusia Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian, Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan panduan nilai-nilai etis Pancasila. |
 |       MKU002      |                                                                                                                                                                                                                                                                                                                                                                                                                                   Pendidikan Kewarganegaraan / Civics                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|                   | <p style='text-align:justify'>Pendidikan Kewarganegaraan menjelaskan pentingnya pemahaman tentang identitas nasional Indonesia, hak dan kewajiban warga negara Indonesia serta hubungannya dengan hak dan kewajiban asasi manusia. Materi kuliah mencakup juga wawasan nusantara, ketahanan nasional, politik dan strategi nasional, serta implementasinya dalam kehidupan bermasyarakat, berbangsa dan bernegara kesatuan Republik Indonesia.                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|                   | Pendidikan Kewarganegaraan menjelaskan pentingnya pemahaman tentang identitas nasional Indonesia, hak dan kewajiban warga negara Indonesia serta hubungannya dengan hak dan kewajiban asasi manusia. Materi kuliah mencakup juga wawasan nusantara, ketahanan nasional, politik dan strategi nasional, serta implementasinya dalam kehidupan bermasyarakat, berbangsa dan bernegara kesatuan Republik Indonesia.                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |       MKU003      |                                                                                                                                                                                                                                                                                                                                                                                                                                    Agama Katolik / Catholic Religion                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |                   | Mata kuliah ini membentuk karakteristik mahasiswa sebagai manusia yang memiliki religiusitas melalui pendalaman akan makna agama dan beragama, mendeteksi dinamika Wahyu Tuhan dan iman mereka, memahami relasi dengan Tuhan dan sesama, mengenal makna keselamatan dalam konteks Kerajaan Allah, dan mampu menyatakan ajaran Gereja dalam pelayanan terhadap orang miskin dan terlantar.                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 |       MKU004      |                                                                                                                                                                                                                                                                                                                                                                                                                                           Fenomenologi Agama                                                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -160,7 +159,6 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 |        |                      | Total | 18  |   |        |            | Total | 15  |
 
 ##### 2.5.3 Mata Kuliah Pilihan Program Studi Matematika
-
 Mata kuliah pilihan di bagi kedalam tiga kelompok, yaitu kelompok bidang kajian Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliah Pilihan Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.
 
 ##### Kelompok Bidang Kajian: Rekayasa Keuangan
@@ -209,6 +207,8 @@ Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi
 
 ##### 2.5.3 Peta dan Prasyarat Mata Kuliah
  Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
+ ![](images/peta.png)
+ Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 
 ##### 2.5.4 Deskripsi Singkat Mata Kuliah Prodi Matematika
 |                 Kode MK                |                                                                                                                                                                                                  Nama & Deskripsi Mata Kuliah                                                                                                                                                                                                 |
@@ -224,7 +224,7 @@ Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi
 |                 AMS124                 |                                                                                                                                                                                          Matematika Diskret (_Discrete Mathematics_)                                                                                                                                                                                          |
 |                 AMS123                 | Logika dan bukti, himpunan dan fungsi, induksi dan rekursi, masalah pencacahan (counting), dan teori graf.                                                                                                                                                                                                                                                                                 |
 |                 AMS126                 |                                                                                                                                                                                               Aljabar Matriks (_Matrix Algebra_)                                                                                                                                                                                              |
-|                    -                   | <p style='text-align:justify'>Sistem persamaan, linear dan matriks, determinan, ruang vektor real, ruang hasil kali dalam,,transformasi linear dan matriks representasi, nilai dan vektor eigen.                                                                                                                                                                                                                          |
+|                    -                   | Sistem persamaan, linear dan matriks, determinan, ruang vektor real, ruang hasil kali dalam,,transformasi linear dan matriks representasi, nilai dan vektor eigen.                                                                                                                                                                                                                          |
 |                 AMS221                 |                                                                                                                                                                                              Kalkulus Vector (_Vector Calculus_)                                                                                                                                                                                              |
 |                 AMS122                 | Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.                                                                                                                                                                                                                                                                           |
 |                 AMS231                 |                                                                                                                                                                                            Teori Suku Bunga (_Theory of Interest_)                                                                                                                                                                                            |
@@ -244,7 +244,7 @@ Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi
 |                 AMS272                 |                                                                                                                                                                                Persamaan Diferensial Biasa (_Ordinary Differential Equations_)                                                                                                                                                                                |
 |             AMS122, AMS126             | Persamaan diferensial orde satu, persamaan diferensial,orde dua, persamaan diferensial orde-n, sistem persamaan diferensial linear,orde satu, pengantar persamaan diferensial nonlinear, pengantar persamaan,diferensial parsial, masalah nilai batas.                                                                                                                                     |
 |                 AMS273                 |                                                                                                                                                                                       Komputasi Matematika (_Computational Mathematics_)                                                                                                                                                                                      |
-|         AMS126, AMS151, AMS221         | Pengenalan perintah dasar di Maple,,Penggunaan Maple dalam Aljabar Linear, Persamaan Diferensial Biasa, Peluang,dan Statistika, Pengenalan perintah dasar di Matlab, Penggunaan Matlab dalam,Aljabar Linear dan Statistika, menggambar grafik, serta pemograman di Matlab.                                                                                                                 |
+|         AMS126, AMS151, AMS221         | Pengenalan perintah dasar di Maple,Penggunaan Maple dalam Aljabar Linear, Persamaan Diferensial Biasa, Peluang,dan Statistika, Pengenalan perintah dasar di Matlab, Penggunaan Matlab dalam,Aljabar Linear dan Statistika, menggambar grafik, serta pemograman di Matlab.                                                                                                                 |
 |                 AMS321                 |                                                                                                                                                                                      Fungsi Kompleks(_Functional of a Complex Variabel_)                                                                                                                                                                                      |
 |                 AMS221                 | Aksioma bilangan kompleks, fungsi kompleks dan pemetaan,fungsi kompleks, limit dan turunan fungsi kompleks, integral fungsi kompleks,,deret pangkat, residu dan perhitungan integral fungsi real melalui teknik,residu, masalah aplikasi menggunakan teknik fungsi kompleks.                                                                                                               |
 |                 AMS351                 |                                                                                                                                                                                           Proses Stokastik (_Stochastic Processes_)                                                                                                                                                                                           |
@@ -252,10 +252,94 @@ Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi
 |                 AMS373                 |                                                                                                                                                                                              Metode Numerik (_Numerical Methods_)                                                                                                                                                                                             |
 |                 AMS273                 | Konsep numerik, akar persamaan nonlinear dan,polinomial, menyelesaikan sistem persamaan linear dengan hitungan langsung,(eliminasi) dan dengan hitungan tak langsung (iterasi), interpolasi dan,hampiran fungsi, pengintegralan numerik, hampiran turunan, persamaan,diferensial biasa.                                                                                                    |
 |                 AMS322                 |                                                                                                                                                                                                Analisis Real (_Real Analysis_)                                                                                                                                                                                                |
-|                 AMS321                 | Alj. himpunan,,fungsi, bil. real,,barisan dan deret, limit, fungsi kontinu, dan turunan.                                                                                                                                                                                                                                                                                                   |
+|                 AMS321                 | Alj. himpunan, fungsi, bil. real, barisan dan deret, limit, fungsi kontinu, dan turunan.                                                                                                                                                                                                                                                                                                   |
 |                 AMS491                 |                                                                                                                                                                                        Pemodelan Matematika (_Mathematical Modelling_)                                                                                                                                                                                        |
 | AMS126, AMS221, AMS253, AMS272, AMS273 | Mengumpulkan data, mencari proporsionalitas,,menggunakan metoda beda hingga, menginterpretasikan hasil, memperbaiki model,,model pencocokan kurva, model eksperimental, model simulasi, model,probabilistik diskrit, analisis dimensi dan keserupaan.                                                                                                                                      |
 |                 AMS490                 |                                                                                                                                                                                                      Seminar (_Seminar_)                                                                                                                                                                                                      |
 |          lulus minimal 110 sks         | Studi pustaka, penulisan dan presentasi,karya ilmiah.                                                                                                                                                                                                                                                                                                                                      |
 |                 AMS499                 |                                                                                                                                                                                                   Skripsi (_Final Project_)                                                                                                                                                                                                   |
 |            AMS490 minimal C            | Studi pustaka,,penulisan dan penyajian lisan skripsi.                                                                                                                                                                                                                                                                                                                                      |
+
+#### 2.7 Kurikulum Program Studi Teknik Informatika
+##### 2.7.1 Susunan Mata Kuliah
+
+|        | Semester 1                     |       |     |   |        | Semester 2                  |       |     |
+|--------|--------------------------------|-------|-----|---|--------|-----------------------------|-------|-----|
+| KODE   | NAMA                           | APR   | SKS |   | KODE   | NAMA                        | APR   | SKS |
+| AIF101 | Pemrograman Berorientasi Objek |       | 6   |   | AIF102 | Algoritma dan Struktur Data |       | 4   |
+| AIF103 | Matematika Diskret             |       | 3   |   | AIF104 | Logika Informatika          |       | 3   |
+| AIF105 | Pengantar Informatika          |       | 3   |   | AIF106 | Sistem Dijital              |       | 3   |
+| MKU001 | Pendidikan Pancasila           |       | 2   |   | AMS100 | Matematika Informatika      |       | 4   |
+| MKU008 | Etika                          |       | 2   |   | MKU009 | Bahasa Indonesia            |       | 2   |
+| MKU010 | Bahasa Inggris                 |       | 2   |   | MKU011 | Estetika                    |       | 2   |
+|        |                                | TOTAL | 18  |   |        |                             | TOTAL |     |
+
+|          | Semester 3                             |       |     |   |        | Semester 4                        |       |     |
+|----------|----------------------------------------|-------|-----|---|--------|-----------------------------------|-------|-----|
+| KODE     | NAMA                                   | APR   | SKS |   | KODE   | NAMA                              | APR   | SKS |
+| AIF201   | Analisis dan Desain Berorientasi Objek |       | 4   |   | AIF202 | Desain dan Analisis Algoritma     |       | 4   |
+| AIF203   | Struktur Diskret                       |       | 4   |   | AIF204 | Manajemen Informasi dan Basisdata |       | 4   |
+| AIF205   | Arsitektur dan Organisasi Komputer     |       | 3   |   | AIF206 | Sistem Operasi                    |       | 4   |
+| AMS200   | Probabilitas dan Statistika            |       | 3   |   | AIF208 | Rekayasa Perangkat Lunak          |       | 4   |
+| MKU003/4 | Agama Katolik / Fenomenologi Agama     |       | 2   |   | AIF210 | Interaksi Manusi Komputer         |       | 2   |
+| MKU012   | Logika                                 |       | 2   |   |        |                                   |       |     |
+|          |                                        | TOTAL | 18  |   |        |                                   | TOTAL | 18  |
+
+|        | Semester 5                   |       |     |   |         | Semester 6                    |       |     |
+|--------|------------------------------|-------|-----|---|---------|-------------------------------|-------|-----|
+| KODE   | NAMA                         | APR   | SKS |   | KODE    | NAMA                          | APR   | SKS |
+| AIF301 | Pengantar Sistem Cerdas      |       | 3   |   | AIF302  | Penulisan Ilmiah              |       | 2   |
+| AIF303 | Pengantar Sistem Informasi   |       | 3   |   | AIF304  | Proyek Sistem Informasi 1 (2) |       | 3   |
+| AIF305 | Jaringan Komputer            |       | 2   |   | AIF306  | Proyek Informatika (2)        |       | 6   |
+| AIF311 | Pemrograman Fungsional (1)   | R     | 2   |   | AIF208  | Keamanan Informasi (1)        | R     | 2   |
+| AIF313 | Grafika Komputer (1)         | R     | 2   |   | AIF314  | Pemrograman Basisdata (1)     | R     | 2   |
+| AIF315 | Pemrograman Berbasis Web (1) | R     | 2   |   | AIF316  | Komputasi Paralel (1)         | R     | 2   |
+| AIF317 | Desain Antarmuka Grafis (1)  | R     | 2   |   | AIF318  | Pemrograman Aplikasi Bergerak | R     | 2   |
+| AIFXXX | MK Pilihan                   |       | 2   |   | AIFXXX  | MK Pilihan                    |       | 6   |
+| MKU002 | Kewarganegaraan              |       | 2   |   |         |                               |       |     |
+|        |                              | TOTAL | 18  |   |         |                               | TOTAL | 18  |
+
+
+|        | Semester 7                    |       |     |   |        | Semester 8    |       |     |
+|--------|-------------------------------|-------|-----|---|--------|---------------|-------|-----|
+| KODE   | NAMA                          | APR   | SKS |   | KODE   | NAMA          | APR   | SKS |
+| AIF401 | Skripsi 1                     |       | 4   |   | AIF402 | Skripsi 2     |       | 6   |
+| AIF403 | Komputer dan Masyarakat       |       | 3   |   | AIFXXX | MK Pilihan    |       | 10  |
+| AIF405 | Proyek Sistem Informasi 2 (2) |       | 3   |   | APS402 | Etika Profesi |       | 2   |
+| AIFXXX | MK Pilihan                    |       | 12  |   |        |               |       |     |
+|        |                               | TOTAL | 18  |   |        |               | TOTAL | 18  |
+
+Keterangan :
+	
+1. (1) : Mata kuliah pilihan wajib, mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut.
+2. (2) : Mata kuliah projek, mahasiswa harus lulus salah satu dari Projek Informatika atau Projek Sistem Informasi 1 dan Projek Sistem Informasi 2.
+
+Aturan tambahan :
+
+1.	Mata kuliah pilihan dari luar jurusan 
+Banyaknya matakuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) matakuliah.
+Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai matakuliah pilihan dari dalam jurusan 
+2.	Skor Coding
+Beberapa matakuliah memiliki skor coding antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan matakuliah setiap semester, memiliki jumlah skor coding> 0.
+3.	Nilai minimum kuliah jalur pemrograman/algoritma
+Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:
+a.	Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+b.	Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+c.	Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
+d.	Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek
+maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
+
+
+##### 2.7.2 Matakuliah Pilihan Program Studi Teknik Informatika
+
+| KODE   | NAMA                            | APR | SKS |   | KODE   | NAMA                           | APR | SKS |
+|--------|---------------------------------|-----|-----|---|--------|--------------------------------|-----|-----|
+| AIF330 | Kerja Praktek 1                 |     | 2   |   | AIF339 | Pemodelan Formal               |     | 3   |
+| AIF331 | Topik Khusus Informatika 1      |     | 2   |   | AIF340 | Komputasi Geometri             |     | 3   |
+| AIF332 | Topik Khusus Informatika 2      |     | 3   |   | AIF341 | Adm. Jaringan Komputer 1       |     | 3   |
+| AIF333 | Topik Khusus Sistem Informasi 1 |     | 2   |   | AIF342 | Adm. Jaringan Komputer 2       |     | 3   |
+| AIF335 | Pembelajaran Mesin              |     | 3   |   | AIF343 | Pemrograman Kompetitif         |     | 3   |
+| AIF336 | Algoritma Kriptografi           |     | 3   |   | AIF344 | Pemodelan & Simulasi           |     | 3   |
+| AIF337 | Matematika Teknik               |     | 3   |   | AIF345 | Pengujian Perangkat Lunak      |     | 2   |
+| AIF338 | BioInformatika                  |     | 3   |   | AIF346 | Perancangan Permainan Komputer |     |     |
+
