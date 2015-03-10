@@ -259,3 +259,87 @@ Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi
 |          lulus minimal 110 sks         | Studi pustaka, penulisan dan presentasi,karya ilmiah.                                                                                                                                                                                                                                                                                                                                      |
 |                 AMS499                 |                                                                                                                                                                                                   Skripsi (_Final Project_)                                                                                                                                                                                                   |
 |            AMS490 minimal C            | Studi pustaka,,penulisan dan penyajian lisan skripsi.                                                                                                                                                                                                                                                                                                                                      |
+
+#### 2.7 Kurikulum Program Studi Teknik Informatika
+##### 2.7.1 Susunan Mata Kuliah
+
+|        | Semester 1                     |       |     |   |        | Semester 2                  |       |     |
+|--------|--------------------------------|-------|-----|---|--------|-----------------------------|-------|-----|
+| KODE   | NAMA                           | APR   | SKS |   | KODE   | NAMA                        | APR   | SKS |
+| AIF101 | Pemrograman Berorientasi Objek |       | 6   |   | AIF102 | Algoritma dan Struktur Data |       | 4   |
+| AIF103 | Matematika Diskret             |       | 3   |   | AIF104 | Logika Informatika          |       | 3   |
+| AIF105 | Pengantar Informatika          |       | 3   |   | AIF106 | Sistem Dijital              |       | 3   |
+| MKU001 | Pendidikan Pancasila           |       | 2   |   | AMS100 | Matematika Informatika      |       | 4   |
+| MKU008 | Etika                          |       | 2   |   | MKU009 | Bahasa Indonesia            |       | 2   |
+| MKU010 | Bahasa Inggris                 |       | 2   |   | MKU011 | Estetika                    |       | 2   |
+|        |                                | TOTAL | 18  |   |        |                             | TOTAL |     |
+
+|          | Semester 3                             |       |     |   |        | Semester 4                        |       |     |
+|----------|----------------------------------------|-------|-----|---|--------|-----------------------------------|-------|-----|
+| KODE     | NAMA                                   | APR   | SKS |   | KODE   | NAMA                              | APR   | SKS |
+| AIF201   | Analisis dan Desain Berorientasi Objek |       | 4   |   | AIF202 | Desain dan Analisis Algoritma     |       | 4   |
+| AIF203   | Struktur Diskret                       |       | 4   |   | AIF204 | Manajemen Informasi dan Basisdata |       | 4   |
+| AIF205   | Arsitektur dan Organisasi Komputer     |       | 3   |   | AIF206 | Sistem Operasi                    |       | 4   |
+| AMS200   | Probabilitas dan Statistika            |       | 3   |   | AIF208 | Rekayasa Perangkat Lunak          |       | 4   |
+| MKU003/4 | Agama Katolik / Fenomenologi Agama     |       | 2   |   | AIF210 | Interaksi Manusi Komputer         |       | 2   |
+| MKU012   | Logika                                 |       | 2   |   |        |                                   |       |     |
+|          |                                        | TOTAL | 18  |   |        |                                   | TOTAL | 18  |
+
+|        | Semester 5                   |       |     |   |         | Semester 6                    |       |     |
+|--------|------------------------------|-------|-----|---|---------|-------------------------------|-------|-----|
+| KODE   | NAMA                         | APR   | SKS |   | KODE    | NAMA                          | APR   | SKS |
+| AIF301 | Pengantar Sistem Cerdas      |       | 3   |   | AIF302  | Penulisan Ilmiah              |       | 2   |
+| AIF303 | Pengantar Sistem Informasi   |       | 3   |   | AIF304  | Proyek Sistem Informasi 1 (2) |       | 3   |
+| AIF305 | Jaringan Komputer            |       | 2   |   | AIF306  | Proyek Informatika (2)        |       | 6   |
+| AIF311 | Pemrograman Fungsional (1)   | R     | 2   |   | AIF208  | Keamanan Informasi (1)        | R     | 2   |
+| AIF313 | Grafika Komputer (1)         | R     | 2   |   | AIF314  | Pemrograman Basisdata (1)     | R     | 2   |
+| AIF315 | Pemrograman Berbasis Web (1) | R     | 2   |   | AIF316  | Komputasi Paralel (1)         | R     | 2   |
+| AIF317 | Desain Antarmuka Grafis (1)  | R     | 2   |   | AIF318  | Pemrograman Aplikasi Bergerak | R     | 2   |
+| AIFXXX | MK Pilihan                   |       | 2   |   | AIFXXX  | MK Pilihan                    |       | 6   |
+| MKU002 | Kewarganegaraan              |       | 2   |   |         |                               |       |     |
+|        |                              | TOTAL | 18  |   |         |                               | TOTAL | 18  |
+
+
+|        | Semester 7                    |       |     |   |        | Semester 8    |       |     |
+|--------|-------------------------------|-------|-----|---|--------|---------------|-------|-----|
+| KODE   | NAMA                          | APR   | SKS |   | KODE   | NAMA          | APR   | SKS |
+| AIF401 | Skripsi 1                     |       | 4   |   | AIF402 | Skripsi 2     |       | 6   |
+| AIF403 | Komputer dan Masyarakat       |       | 3   |   | AIFXXX | MK Pilihan    |       | 10  |
+| AIF405 | Proyek Sistem Informasi 2 (2) |       | 3   |   | APS402 | Etika Profesi |       | 2   |
+| AIFXXX | MK Pilihan                    |       | 12  |   |        |               |       |     |
+|        |                               | TOTAL | 18  |   |        |               | TOTAL | 18  |
+
+Keterangan :
+	
+1. (1) : Mata kuliah pilihan wajib, mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut.
+2. (2) : Mata kuliah projek, mahasiswa harus lulus salah satu dari Projek Informatika atau Projek Sistem Informasi 1 dan Projek Sistem Informasi 2.
+
+Aturan tambahan :
+
+1.	Mata kuliah pilihan dari luar jurusan 
+Banyaknya matakuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) matakuliah.
+Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai matakuliah pilihan dari dalam jurusan 
+2.	Skor Coding
+Beberapa matakuliah memiliki skor coding antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan matakuliah setiap semester, memiliki jumlah skor coding> 0.
+3.	Nilai minimum kuliah jalur pemrograman/algoritma
+Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:
+a.	Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+b.	Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+c.	Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
+d.	Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek
+maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
+
+
+##### 2.7.2 Matakuliah Pilihan Program Studi Teknik Informatika
+
+| KODE   | NAMA                            | APR | SKS |   | KODE   | NAMA                           | APR | SKS |
+|--------|---------------------------------|-----|-----|---|--------|--------------------------------|-----|-----|
+| AIF330 | Kerja Praktek 1                 |     | 2   |   | AIF339 | Pemodelan Formal               |     | 3   |
+| AIF331 | Topik Khusus Informatika 1      |     | 2   |   | AIF340 | Komputasi Geometri             |     | 3   |
+| AIF332 | Topik Khusus Informatika 2      |     | 3   |   | AIF341 | Adm. Jaringan Komputer 1       |     | 3   |
+| AIF333 | Topik Khusus Sistem Informasi 1 |     | 2   |   | AIF342 | Adm. Jaringan Komputer 2       |     | 3   |
+| AIF335 | Pembelajaran Mesin              |     | 3   |   | AIF343 | Pemrograman Kompetitif         |     | 3   |
+| AIF336 | Algoritma Kriptografi           |     | 3   |   | AIF344 | Pemodelan & Simulasi           |     | 3   |
+| AIF337 | Matematika Teknik               |     | 3   |   | AIF345 | Pengujian Perangkat Lunak      |     | 2   |
+| AIF338 | BioInformatika                  |     | 3   |   | AIF346 | Perancangan Permainan Komputer |     |     |
+
