@@ -24,11 +24,15 @@ public final class R {
     public static final class drawable {
         public static final int ejuklakicon=0x7f020000;
         public static final int gradient_background=0x7f020001;
-        public static final int wwe_logo=0x7f020002;
+        public static final int logo=0x7f020002;
+        public static final int tif=0x7f020003;
+        public static final int unpar=0x7f020004;
     }
     public static final class id {
-        public static final int action_settings=0x7f080001;
-        public static final int imgLogo=0x7f080000;
+        public static final int action_settings=0x7f080003;
+        public static final int imgLogo=0x7f080002;
+        public static final int tif=0x7f080001;
+        public static final int unpar=0x7f080000;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
