@@ -207,8 +207,8 @@ Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi
 
 ##### 2.5.3 Peta dan Prasyarat Mata Kuliah
  Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
+ 
  ![](images/gambar1.jpg)
- Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 
 ##### 2.5.4 Deskripsi Singkat Mata Kuliah Prodi Matematika
 |                 Kode MK                |                                                                                                                                                                                                  Nama & Deskripsi Mata Kuliah                                                                                                                                                                                                 |
