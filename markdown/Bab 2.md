@@ -207,7 +207,7 @@ Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi
 
 ##### 2.5.3 Peta dan Prasyarat Mata Kuliah
  Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
- ![](images/peta.png)
+ ![](images/gambar1.jpg)
  Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika
 
 ##### 2.5.4 Deskripsi Singkat Mata Kuliah Prodi Matematika
@@ -382,7 +382,7 @@ Selain itu, mahasiswa dapat mengambil, baik matakuliah wajib maupun matakuliah p
 Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari seluruh pembelajaran *soft-skills* berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis *(logical consistency)*, melakukan taksiran *(sense of scale)*, menentukan prioritas, komputasi, bekerjasama, *entrepreneurship*, interpersonal, beradaptasi, mandiri, memimpin,  berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru *(open minded)*, percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.
 
 ####2.6.3Peta dan Prasyarat Matakuliah
-Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.![](/images/gambar3.jpg)
+Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.![](images/gambar2.jpg)
 ####2.6.4Deskripsi Singkat Matakuliah Program Studi Fisika
 
 | KODE MK |                                                                                                                                                                                       NAMA & DESKRIPSI MATA KULIAH                                                                                                                                                                                      |
@@ -599,7 +599,7 @@ maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di ma
 
 ##### 2.7.3 Peta dan Prasyarat Matakuliah
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
-![](/images/gambar3.jpg)
+![](images/gambar3.jpg)
 
 
 ##### 2.7.4 Deskripsi Matakuliah
