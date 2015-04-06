@@ -381,9 +381,9 @@ Selain itu, mahasiswa dapat mengambil, baik matakuliah wajib maupun matakuliah p
 
 Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari seluruh pembelajaran *soft-skills* berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis *(logical consistency)*, melakukan taksiran *(sense of scale)*, menentukan prioritas, komputasi, bekerjasama, *entrepreneurship*, interpersonal, beradaptasi, mandiri, memimpin,  berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru *(open minded)*, percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.
 
-####2.6.3Peta dan Prasyarat Matakuliah
+#### 2.6.3 Peta dan Prasyarat Matakuliah
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.![](images/gambar2.jpg)
-####2.6.4Deskripsi Singkat Matakuliah Program Studi Fisika
+#### 2.6.4 Deskripsi Singkat Matakuliah Program Studi Fisika
 
 | KODE MK |                                                                                                                                                                                       NAMA & DESKRIPSI MATA KULIAH                                                                                                                                                                                      |
 |:-------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -484,8 +484,6 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.![](images/gambar2.jpg)
 |  SAB315 | Kewirausahaan */ Entrepreneurship*                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |    -    | Mata kuliah ini membahas pengertian Kewirausahaan serta bagaimana sebaiknya mengembangkan usaha agar dapat menjadi wirausaha yang berhasil dan beretika. Pembahasan mengenai inti dan hakekat kewirausahaan, disiplin ilmu, obyek studi dan perkembangannya, karakteristik dan ciri umum kewirausahaan, faktor-faktor pemicu, model, proses, tahapan, keberhasilan dan kegagalan, ide dan sumber wirausaha, cara memasuki dunia usaha, pengelolaan dunia usaha, kompetisi dan strategi, pembuatan studi kelayakan dan etika bisnis dan prinsip-prinsip usaha yang baik. Selain itu juga dipresentasikan hasil kunjungan ke perusahaan agar dapat membedakan dunia nyata dengan teori, sehingga mahasiswa diharapkan memiliki kemampuan soft skill. |
 
-                                                                   |
-
 #### 2.7 Kurikulum Program Studi Teknik Informatika
 ##### 2.7.1 Susunan Mata Kuliah
 
@@ -537,8 +535,8 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.![](images/gambar2.jpg)
 
 Keterangan :
 	
-1. (1) : Mata kuliah pilihan wajib, mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut.
-2. (2) : Mata kuliah projek, mahasiswa harus lulus salah satu dari Projek Informatika atau Projek Sistem Informasi 1 dan Projek Sistem Informasi 2.
+1. Mata kuliah pilihan wajib, mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut.
+2. Mata kuliah projek, mahasiswa harus lulus salah satu dari Projek Informatika atau Projek Sistem Informasi 1 dan Projek Sistem Informasi 2.
 
 Aturan tambahan :
 
