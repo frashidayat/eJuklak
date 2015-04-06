@@ -301,17 +301,17 @@ sebagainya.
 |         Kasubag Umum & Perlengkapan    |    Walip, A.Md              |
 |                     Staf   Akademik    |    Rikie Setiawan, S.AB.    |
 
-### 1.5 Pengelola Fakultas
+### 1.5 Daftar Dosen Fakultas
 
 Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan website.
 
-### Guru Besar
+#### Guru Besar
 |        Prof B. Suprapto Brotosiswojo, Dr. (Purdue University,USA)       |
 |:-----------------------------------------------------------------------:|
 | Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam. |
 |                       Email : bensupra@unpar.ac.id                      |
 
-### Lektor Kepala
+#### Lektor Kepala
 | No.  | Dosen                                                                                                                                                                                                                        |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.   | __Agus Sukmana, Drs. (ITB), MSc (Twente Univ. – Belanda), studi S-3 (UPI)__ _Teori Peluang, Pengendalian Mutu, Statistika Elementer._ Email : asukmana@unpar.ac.id                                                                 |
@@ -326,7 +326,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 | 10.  | __Marcus Wono Setya Budhi, PhD (Univ. of Illinois – USA)__ _Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar._ Email : wono@math.itb.ac.id                                                                          |
 | 11.  | __Veronica Sri Moertini, ST (ITB), MT (ITB), Dr. (ITB)__ _Basis Data, Penambangan Data, Projek Sistem Informasi._ Email : moertini@unpar.ac.id                                                                                     |
 
-### Lektor
+#### Lektor
 | No. | Dosen                                                                                                                                                                                                  |
 |-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.  | __Cecilia Esti Nugraheni, ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians Universitaet – Germany)__:  _Matematika Diskret, Jaringan Syaraf Tiruan._ Email: cheni@unpar.ac.id |
@@ -337,7 +337,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 | 6.  | __Rosa de Lima E.P., SSi (ITB), MT (ITB), Studi S-3 di UPI__: _Sistem Informarsi, Sistem Pendukung Keputusan._ Email: rosad5@unpar.ac.id                                                                     |
 | 7.  | __Farah Kristiani, SSi (UNPAR), MSi (ITB), Studi S-3 Matematika di Universiti Pendidikan Sultan Idris, Malaysia.__ Email: farah@unpar.ac.id.                                                               |
 
-### Asisten Ahli
+#### Asisten Ahli
 |  No. |                                                                                            Dosen                                                                                           |
 |:----:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 1.   | __Elisati Hulu, ST (ITB), MT (ITB), Studi S-3 di ITB.__  Email : elisatih@unpar.ac.id                                                                                                          |
