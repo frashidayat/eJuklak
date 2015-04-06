@@ -339,7 +339,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 
 ####Asisten Ahli
 |  No. |                                                                                            Dosen                                                                                           |
-|:----:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.   | __Elisati Hulu, ST (ITB), MT (ITB), Studi S-3 di ITB.__  Email : elisatih@unpar.ac.id                                                                                                          |
 | 2.   | __Gede Karya, ST (ITB), MT (ITB)__ _Pemrograman Aplikasi Bergerak, Analisis Proses Bisnis._ Email : gkarya@unpar.ac.id                                                                           |
 | 3.   | __Ivonne Martin, SSi (UNPAR), MSc. (TU Delft – Belanda) Studi S-3 Matematika di Leiden University, Belanda.__  Email : ivonne@unpar.ac.id                                                      |
