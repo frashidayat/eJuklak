@@ -73,17 +73,17 @@ Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilk
 
 
 
-Bandung,     
-Dekan,
+#####Bandung,     
+#####Dekan,
 
 
-Paulus Cahyono Tjiang, Ph.D.
+#####Paulus Cahyono Tjiang, Ph.D.
 
 
 Bab 1: Pendahuluan
 ------------------
 
-### 1.1 Sejarah Fakultas Teknologi Informasi dan Sains
+#### 1.1 Sejarah Fakultas Teknologi Informasi dan Sains
 
 Fakultas Teknologi Informasi dan Sains (FTIS) Universitas Katolik Parahyangan
 (UNPAR) berawal dari Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA).
@@ -121,9 +121,9 @@ berikut:
   B (Baik) berdasarkan Keputusan BAN-PTNomor 042/BAN-PT/Ak-XIII/S1/I/2011
   tertanggal 21 Januari 2011 dengan masa berlaku hingga 21 Januari 2016
 
-<p align="justify">Ketiga program studi yang sekarang berada dalam naungan FTISini dilaksanakan
+Ketiga program studi yang sekarang berada dalam naungan FTIS ini dilaksanakan
 berdasarkan suatu kurikulum yang berbobot 144 sks (satuan kredit semester)
-dengan rincian selanjutnya akan diuraikan pada bagian berikutnya.</p>
+dengan rincian selanjutnya akan diuraikan pada bagian berikutnya.
 
 #### 1.2 Visi, Misi, Tujuan, dan Sasaran FTIS
 
@@ -188,20 +188,14 @@ tersebut.
 
 Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
 
-1. Menyelenggarakan program akademik jenjang sarjana dengan memperhatikan visi
-   FTIS untuk menghasilkan lulusan yang:
-    a. Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta
-	   aplikasinya.
-    b. Mampu memecahkan permasalahan di bidang teknologi informasi dan sains
-	   melalui kegiatan penelitian berdasarkan kaidah-kaidah ilmiah serta
-	   menerapkannya untuk peningkatan martabat manusia.
-2. Menghasilkan penelitian di bidang teknologi informasi dan sains yang 
-   dapat meningkatkan martabat manusia secara langsung ataupun tidak 
-   langsung, serta memanfaatkan hasil penelitian untuk pengembangan proses 
-   pembelajaran dan pengabdian kepada masyarakat. 3. Menjalin kerja sama 
-   dengan berbagai pihak baik internal ataupun eksternal untuk meningkatkan 
-   keterkaitan proses pembelajaran, penelitian dan pengabdian kepada 
-   masyarakat. 
+1. Menyelenggarakan program akademik jenjang sarjana dengan memperhatikan visi FTIS untuk menghasilkan lulusan yang:
+
+    a. Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta aplikasinya.
+    
+    b. Mampu memecahkan permasalahan di bidang teknologi informasi dan sains melalui kegiatan penelitian berdasarkan kaidah-kaidah ilmiah serta menerapkannya untuk peningkatan martabat manusia.
+    
+2. Menghasilkan penelitian di bidang teknologi informasi dan sains yang dapat meningkatkan martabat manusia secara langsung ataupun tidak langsung, serta memanfaatkan hasil penelitian untuk pengembangan proses pembelajaran dan pengabdian kepada masyarakat.
+3. Menjalin kerja sama dengan berbagai pihak baik internal ataupun eksternal untuk meningkatkan keterkaitan proses pembelajaran, penelitian dan pengabdian kepada masyarakat. 
 
 #### 1.2.3 TUJUAN FTIS
 
