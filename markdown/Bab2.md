@@ -90,7 +90,6 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 | MKU008 |            Etika           |  2  |   |        |                  |     |
 
 ##### 2.4.2  Uraian Singkat Matakuliah Umum
-
 | NAMA MK PRASYARAT |                                                                                                                                                                                                                                                                                                                                                                                                                                   NAMA MATAKULIAH DESKIPSI MATAKULIAH                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |:-----------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |       MKU001      |                                                                                                                                                                                                                                                                                                                                                                                                                               Pendidikan Pancasila / Pancasila Education                                                                                                                                                                                                                                                                                                                                                                                                                               |
@@ -111,7 +110,8 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 |                   | Mata kuliah estetika memberi pemahaman konseptual filosofis “seni” dalam khasanah keilmuan, pembentukan kesadaran ekologis juga dalam proses pembudayaan dan peradaban. Mata kuliah ini akan menjadi fondasi bagi mahasiswa untuk memahami dan mempraktekkan seni dari sudut pandang filsafat, sejarah, kultural, dan global. Melalui mata kuliah ini, mahasiswa mempelajari mengenai dunia manusia (manusia dan pikirannya), pluralitas dan relativitas seni, serta aliran-aliran seni rupa Barat.                                                                                                                                                                                                                                                                                                                                                                 |
 |       MKU012      |                                                                                                                                                                                                                                                                                                                                                                                                                                             Logika / Logics                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |                   | Perkuliahan logika ditujukan untuk memberikan dasar-dasar ketrampilan berpikir rasional dan sistematik. Isinya mencakup ketrampilan berpikir deduktif dan induktif, seperti silogisme, argumen analogikal dan generalisasi induktif. Pembahasan teoretis disertai pula dengan pelatihan praktis yang diarahkan pada proses berpikir. Untuk menajamkan kemampuan berpikir tersebut, mahasiswa dilatih pula mengidentifikasi kerancuan-kerancuan (fallacies) yang sering dijumpai baik dalam kehidupan sehari-hari maupun dalam konteks akademik.                                                                                                                                                                                                                                                                                                                     |
- Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
+
+Matakuliah yang saling menggantikan: Agama Katolik-Fenomenologi Agama
 
 #### 2.5 Kurikulum Program Studi Matematika
 ##### 2.5.1 Susunan Mata Kuliah
@@ -158,7 +158,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 | ABCXYZ |        Pilihan       |       |  9  |   |        |            |       |     |
 |        |                      | Total | 18  |   |        |            | Total | 15  |
 
-##### 2.5.3 Mata Kuliah Pilihan Program Studi Matematika
+##### 2.5.2 Mata Kuliah Pilihan Program Studi Matematika
 Mata kuliah pilihan di bagi kedalam tiga kelompok, yaitu kelompok bidang kajian Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliah Pilihan Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.
 
 ##### Kelompok Bidang Kajian: Rekayasa Keuangan
@@ -171,12 +171,14 @@ Mata kuliah pilihan di bagi kedalam tiga kelompok, yaitu kelompok bidang kajian 
 | AMS432 |            Teori Risiko            |  3  |   | AMS441 |      Teori Manajemen Investasi     |  3  |
 | AMS430 | Kapita Selekta Matematika Asuransi |  3  |   | AMS442 |        Ekonometrika Keuangan       |  3  |
 |        |                                    |     |   | AMS440 | Kapita Selekta Matematika Keuangan |  3  |
+
 ##### Kelompok Bidang Kajian: Rekayasa Keuangan
 ###### Optimasi dan Teori Kontrol
 |  KODE  |          NAMA         | SKS |   |  KODE  |       NAMA      | SKS |
 |:------:|:---------------------:|:---:|:-:|:------:|:---------------:|:---:|
 | AMS361 | Pemrograman NonLinear |  3  |   | AMS461 | Kontrol Optimum |  3  |
 |        |                       |     |   | AMS462 |  Kontrol Linear |  3  |
+
 ###### Statistika & Penelitian Operasional
 |  KODE  |          NAMA          | SKS |   |  KODE  |                  NAMA                 | SKS |
 |:------:|:----------------------:|:---:|:-:|:------:|:-------------------------------------:|:---:|
@@ -186,12 +188,14 @@ Mata kuliah pilihan di bagi kedalam tiga kelompok, yaitu kelompok bidang kajian 
 | AMS451 |     Teori Permainan    |  3  |   | AMS457 |               Keandalan               |  3  |
 | AMS452 |    Proyek Pemodelan    |  3  |   | AMS350 |       Kapita Selekta Statistika       |  3  |
 | AMS453 | Statistika Multivariat |  3  |   | AMS450 | Kapita Selekta Penelitian Operasional |  3  |
+
 ###### Matematika Terapan
 |  KODE  |              NAMA             | SKS |   |  KODE  |                NAMA               | SKS |
 |:------:|:-----------------------------:|:---:|:-:|:------:|:---------------------------------:|:---:|
 | AMS471 |        Sistem Dinamika        |  3  |   | AMS372 |      Metoda Matematika Lanjut     |  3  |
 | AMS472 |       Matematika Biologi      |  3  |   | AMS374 |          Analisis Numerik         |  3  |
 | AMS371 | Persamaan Diferensial Parsial |  3  |   | AMS470 | Kapita Selekta Matematika Terapan |  3  |
+
 ##### Lain-lain
 |  KODE  |           NAMA          | SKS |   |  KODE  |                  NAMA                  | SKS |
 |:------:|:-----------------------:|:---:|:-:|:------:|:--------------------------------------:|:---:|
@@ -203,9 +207,11 @@ Mata kuliah pilihan di bagi kedalam tiga kelompok, yaitu kelompok bidang kajian 
 | AMS423 |        Teori Graf       |  3  |   |        |                                        |     |
 | AMS424 | Struktur Aljabar Lanjut |  3  |   |        |                                        |     |
 | AMS425 |     Analisis Lanjut     |  3  |   |        |                                        |     |
+
 Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara matakuliah tersebut.Adapun persyaratan Matakuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh matakuliah pilihan Bidang Kajian minimal 15 sks.
 
 ##### 2.5.3 Peta dan Prasyarat Mata Kuliah
+
  Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
  
  ![](images/gambar1.jpg)
@@ -259,6 +265,7 @@ Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi
 |          lulus minimal 110 sks         | Studi pustaka, penulisan dan presentasi,karya ilmiah.                                                                                                                                                                                                                                                                                                                                      |
 |                 AMS499                 |                                                                                                                                                                                                   Skripsi (_Final Project_)                                                                                                                                                                                                   |
 |            AMS490 minimal C            | Studi pustaka,,penulisan dan penyajian lisan skripsi.       |                                                                                                                                                                                                                                                           
+
 #### 2.6 Kurikulum Program Studi Fisika
 ##### 2.6.1 Susunan Matakuliah
 
@@ -307,7 +314,7 @@ Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi
 |        | Mata Kuliah Pilihan		|            |  9  |	|		 | Mata Kuliah Pilihan		|            |  9  |
 |        |                          |       TOTAL|	17 |	|	     |                          |       TOTAL| 18  |
 
-	Kode Kelompok matakuliah (digit numerik kedua dalam kode kuliah):
+Kode Kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 	
 | No |      Kelompok Mata kuliah                   |     | No |   Kelompok Mata kuliah     |
 |:--:|---------------------------------------------|:---:|:--:|----------------------------| 
@@ -318,7 +325,7 @@ Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi
 | 3	 |Fisika Komputasi, Elektronika, dan 		   |	 | 9  |	    Seminar dan skripsi	   |
 |	 |Instrumentasi								   |	 | 0  |	Kuliah Dasar, Keterampilan |
 | 4	 |Fisika Material dan Optika				   |	 |	  |	Umum, Lain-Lain			   |
-			
+
 ##### 2.6.2 Matakuliah Pilihan Program Studi Fisika
 
 ###### Lain-lain
@@ -382,7 +389,10 @@ Selain itu, mahasiswa dapat mengambil, baik matakuliah wajib maupun matakuliah p
 Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari seluruh pembelajaran *soft-skills* berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis *(logical consistency)*, melakukan taksiran *(sense of scale)*, menentukan prioritas, komputasi, bekerjasama, *entrepreneurship*, interpersonal, beradaptasi, mandiri, memimpin,  berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru *(open minded)*, percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.
 
 #### 2.6.3 Peta dan Prasyarat Matakuliah
-Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.![](images/gambar2.jpg)
+Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
+
+![](images/gambar2.jpg)
+
 #### 2.6.4 Deskripsi Singkat Matakuliah Program Studi Fisika
 
 | KODE MK |                                                                                                                                                                                       NAMA & DESKRIPSI MATA KULIAH                                                                                                                                                                                      |
