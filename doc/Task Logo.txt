@@ -1,0 +1,5 @@
+resolusi logo pixel
+72 x 72
+48 x 48 
+96 x 96 
+144 x 144
