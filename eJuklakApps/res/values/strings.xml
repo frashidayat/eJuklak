@@ -11,7 +11,6 @@
 
     <string-array name="titles">
         <item>Home</item>
-        <item>Kata Pengantar</item>
         <item>Bab 1</item>
         <item>Bab 2</item>
         <item>Bab 3</item>
@@ -25,10 +24,8 @@
 
     <string-array name="pageurl">
         <item>http://www.google.com</item>
-        <item>http://www.google.com</item>
-        <item>http://www.google.com</item>
-        <item>http://www.google.com</item>
-        <item>http://www.google.com</item>
+        <item>file:///android_asset/Bab1.html</item>
+        <item>file:///android_asset/Bab2.html</item>
         <item>http://www.google.com</item>
         <item>http://www.google.com</item>
         <item>http://www.google.com</item>
@@ -40,6 +37,10 @@
    <!-- Icons -->
 
     <array name="icons">
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
+        <item>@drawable/ic_launcher</item>
         <item>@drawable/ic_launcher</item>
         <item>@drawable/ic_launcher</item>
         <item>@drawable/ic_launcher</item>
