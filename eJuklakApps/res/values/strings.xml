@@ -15,7 +15,6 @@
         <item>Bab 2</item>
         <item>Bab 3</item>
         <item>Bab 4</item>
-        <item>Bab 5</item>
         <item>Lampiran</item>
     </string-array>
 
@@ -26,10 +25,9 @@
         <item>http://www.google.com</item>
         <item>file:///android_asset/Bab1.html</item>
         <item>file:///android_asset/Bab2.html</item>
-        <item>http://www.google.com</item>
-        <item>http://www.google.com</item>
-        <item>http://www.google.com</item>
-        <item>http://www.google.com</item>
+        <item>file:///android_asset/Bab3.html</item>
+        <item>file:///android_asset/Bab4.html</item>
+        <item>file:///android_asset/Lampiran.html</item>
     </string-array>
 
 
@@ -37,7 +35,6 @@
    <!-- Icons -->
 
     <array name="icons">
-        <item>@drawable/ic_launcher</item>
         <item>@drawable/ic_launcher</item>
         <item>@drawable/ic_launcher</item>
         <item>@drawable/ic_launcher</item>
