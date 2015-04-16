@@ -109,6 +109,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 
 ##### 2.5.1 Susunan Mata Kuliah
 __Semester 1__
+
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	    
 | AMS121 |          Kalkulus I          |   R   |  4  |   
@@ -120,6 +121,7 @@ __Semester 1__
 |        |                              | Total | 19  |   
 
 __Semester 2__
+
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|--------------------------|:-----:|:---:|	    
 |  KODE  |         NAMA         |  APR  | SKS |
@@ -132,6 +134,7 @@ __Semester 2__
 |        |                      | Total | 19  |
 
 __Semester 3__
+
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	       
 |  KODE  |         NAMA         |  APR  | SKS |   
@@ -144,6 +147,7 @@ __Semester 3__
 |        |                      | Total | 18  |   
 
 __Semester 4__
+
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
 |  KODE  |             NAMA            |  APR  | SKS |
@@ -155,6 +159,7 @@ __Semester 4__
 |        |                             | Total | 19  |
 
 __Semester 5__
+
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
 |  KODE  |            NAMA            |  APR  | SKS |   
@@ -166,6 +171,7 @@ __Semester 5__
 |        |                            | Total | 19  |   
 
 __Semester 6__
+
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
 |  KODE  |       NAMA       |  APR  | SKS |
@@ -175,6 +181,7 @@ __Semester 6__
 |        |                  | Total | 18  |
 
 __Semester 7__
+
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
 |  KODE  |         NAMA         |  APR  | SKS |   
@@ -185,6 +192,7 @@ __Semester 7__
 |        |                      | Total | 18  |   
 
 __Semester 8__
+
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
 |  KODE  |    NAMA    |  APR  | SKS |
@@ -198,6 +206,7 @@ Mata kuliah pilihan di bagi kedalam tiga kelompok, yaitu kelompok bidang kajian 
 
 ##### Kelompok Bidang Kajian: Rekayasa Keuangan
 __Matematika Asuransi__
+
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
 |  KODE  |                NAMA                | SKS |   
@@ -208,6 +217,7 @@ __Matematika Asuransi__
 | AMS430 | Kapita Selekta Matematika Asuransi |  3  |   
 
 __Matematika Keuangan__
+
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
 |  KODE  |                NAMA                | SKS |
@@ -308,6 +318,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 
 ##### 2.6.1 Susunan Matakuliah
 __Semester 1__
+
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
 | APS101 | Pengenalan Program Studi |            |  3  |	
@@ -320,6 +331,7 @@ __Semester 1__
 |        |                          |      TOTAL |  19 |	
 
 __Semester 2__
+
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
 | KODE   | NAMA                     |     APR    | SKS |
@@ -332,6 +344,7 @@ __Semester 2__
 |        |                          |      TOTAL |  19 |
 
 __Semester 3__
+
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
 | KODE   | NAMA                     |     APR    | SKS |	
@@ -344,6 +357,7 @@ __Semester 3__
 |        |                          |      TOTAL |  18 |	
 
 __Semester 4__
+
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
 | KODE   | NAMA                     |     APR    | SKS |
@@ -356,6 +370,7 @@ __Semester 4__
 |        |                          |      TOTAL |  18 |
 
 __Semester 5__
+
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
 | KODE   | NAMA                     |     APR    | SKS |	
@@ -368,6 +383,7 @@ __Semester 5__
 |		 |							|		TOTAL|	18 |	
 
 __Semester 6__
+
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
 | KODE   | NAMA                     |     APR    | SKS |
@@ -381,6 +397,7 @@ __Semester 6__
 |		 |							|		TOTAL|	19 |
 
 __Semester 7__
+
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
 | KODE   | NAMA                     |     APR    | SKS |	
@@ -391,6 +408,7 @@ __Semester 7__
 |        |                          |       TOTAL|	17 |	
 
 __Semester 8__
+
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
 | KODE   | NAMA                     |     APR    | SKS |
@@ -543,6 +561,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 ##### 2.7.1 Susunan Mata Kuliah
 
 __Semester 1__
+
 | KODE   | NAMA                           | APR   | SKS |   
 |:------:|--------------------------------|:-----:|:---:|
 | AIF101 | Pemrograman Berorientasi Objek |       | 6   |   
@@ -554,6 +573,7 @@ __Semester 1__
 |        |                                | TOTAL | 18  |   
 
 __Semester 2__
+
 | KODE   | NAMA                           | APR   | SKS |   
 |:------:|--------------------------------|:-----:|:---:|
 | AIF102 | Algoritma dan Struktur Data |       | 4   |
@@ -565,6 +585,7 @@ __Semester 2__
 |        |                             | TOTAL | 18  |
 
 __Semester 3__
+
 | KODE   | NAMA                           | APR   | SKS |   
 |:------:|--------------------------------|:-----:|:---:|
 | AIF201   | Analisis dan Desain Berorientasi Objek |       | 4   |   
@@ -576,6 +597,7 @@ __Semester 3__
 |          |                                        | TOTAL | 18  |   
 
 __Semester 4__
+
 | KODE   | NAMA                           | APR   | SKS |   
 |:------:|--------------------------------|:-----:|:---:|
 | AIF202 | Desain dan Analisis Algoritma     |       | 4   |
@@ -586,6 +608,7 @@ __Semester 4__
 |        |                                   | TOTAL | 18  |
 
 __Semester 5__
+
 | KODE   | NAMA                           | APR   | SKS |   
 |:------:|--------------------------------|:-----:|:---:|
 | AIF301 | Pengantar Sistem Cerdas      |       | 3   |   
@@ -600,6 +623,7 @@ __Semester 5__
 |        |                              | TOTAL | 18  |   
 
 __Semester 6__
+
 | KODE   | NAMA                           | APR   | SKS |   
 |:------:|--------------------------------|:-----:|:---:|
 | AIF302  | Penulisan Ilmiah              |       | 2   |
@@ -613,6 +637,7 @@ __Semester 6__
 |         |                               | TOTAL | 18  |
 
 __Semester 7__
+
 | KODE   | NAMA                           | APR   | SKS |   
 |:------:|--------------------------------|:-----:|:---:|
 | AIF401 | Skripsi 1                     |       | 4   |   
@@ -622,6 +647,7 @@ __Semester 7__
 |        |                               | TOTAL | 18  |   
 
 __Semester 8__
+
 | KODE   | NAMA                           | APR   | SKS |   
 |:------:|--------------------------------|:-----:|:---:|
 | KODE   | NAMA          | APR   | SKS |
@@ -727,9 +753,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 3.
 
 ![Peta dan Prasyarat Mata Kuliah Program Studi Teknik Informatika](images/gambar3.jpg "Peta dan Prasyarat Mata Kuliah Program Studi Teknik Informatika")
 
-
 ##### 2.7.4 Deskripsi Matakuliah
-
 |KODE MK	|PRASYARAT		|NAMA & DESKRIPSI MATA KULIAH	|
 |:---------------:|:-----------------------:|-------------------------------|
 |AIF101		|	-		|__PEMROGRAMAN BERORIENTASI OBJEK (_OBJECT-ORIENTED PROGRAMMING_)__ Memperkenalkan konsep-konsep dasar pemrograman dari perspektif berorientasi objek dan membangun dasar-dasar ketrampilan membuat program dengan menggunakan bahasa pemrograman berorientasi objek.	|
