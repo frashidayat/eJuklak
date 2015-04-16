@@ -207,9 +207,8 @@ Mata kuliah pilihan di bagi kedalam tiga kelompok, yaitu kelompok bidang kajian 
 ##### Kelompok Bidang Kajian: Rekayasa Keuangan
 __Matematika Asuransi__
 
-|  KODE  |             NAMA             |  APR  | SKS | 
-|:------:|------------------------------|:-----:|:---:|	   
-|  KODE  |                NAMA                | SKS |   
+|  KODE  |             NAMA             |  SKS | 
+|:------:|------------------------------|:---:|  
 | AMS330 |    Pengantar Matematika Asuransi   |  3  |   
 | AMS331 |         Matematika Asuransi        |  3  |   
 | AMS431 |     Metode Statistika Asuransi     |  3  |   
@@ -218,8 +217,8 @@ __Matematika Asuransi__
 
 __Matematika Keuangan__
 
-|  KODE  |             NAMA             |  APR  | SKS | 
-|:------:|------------------------------|:-----:|:---:|	   
+|  KODE  |             NAMA             |  SKS | 
+|:------:|------------------------------|:---:|   
 |  KODE  |                NAMA                | SKS |
 | AMS341 |         Komputasi Keuangan         |  3  |
 | AMS342 |         Matematika Keuangan        |  3  |
@@ -231,15 +230,15 @@ __Matematika Keuangan__
 ##### Kelompok Bidang Kajian: Matematika Industri
 
 ###### Optimasi dan Teori Kontrol
-|  KODE  |             NAMA             |  APR  | SKS | 
-|:------:|------------------------------|:-----:|:---:|	   
+|  KODE  |             NAMA             |  SKS | 
+|:------:|------------------------------|:---:|  
 | AMS361 | Pemrograman NonLinear |  3  |    
 | AMS461 | Kontrol Optimum |  3  |
 | AMS462 |  Kontrol Linear |  3  |
 
 ###### Statistika & Penelitian Operasional
-|  KODE  |             NAMA             |  APR  | SKS | 
-|:------:|------------------------------|:-----:|:---:|	   
+|  KODE  |             NAMA             |  SKS | 
+|:------:|------------------------------|:---:|  
 | AMS352 |  Pemrograman Stokastik |  3  |
 | AMS353 |    Pengendalian Mutu   |  3  |   
 | AMS354 |    Model Statistika    |  3  |   
@@ -254,8 +253,8 @@ __Matematika Keuangan__
 | AMS450 | Kapita Selekta Penelitian Operasional |  3  |
 
 ###### Matematika Terapan
-|  KODE  |             NAMA             |  APR  | SKS | 
-|:------:|------------------------------|:-----:|:---:|	   
+|  KODE  |             NAMA             |  SKS | 
+|:------:|------------------------------|:---:|  
 | AMS471 |        Sistem Dinamika        |  3  |   
 | AMS472 |       Matematika Biologi      |  3  |   
 | AMS371 | Persamaan Diferensial Parsial |  3  |   
@@ -264,8 +263,8 @@ __Matematika Keuangan__
 | AMS470 | Kapita Selekta Matematika Terapan |  3  |
 
 ##### Lain-lain
-|  KODE  |             NAMA             |  APR  | SKS | 
-|:------:|------------------------------|:-----:|:---:|	   
+|  KODE  |             NAMA             |  SKS | 
+|:------:|------------------------------|:---:|  
 | AMS323 |         Geometri        |  3  |   
 | AMS324 |      Teori Bilangan     |  3  |   
 | AMS344 |   Komputasi Saintifik   |  3  |   
@@ -334,7 +333,6 @@ __Semester 2__
 
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
-| KODE   | NAMA                     |     APR    | SKS |
 | APS106 | Fisika Dasar 2           |     R,P    |  3  |
 | APS108 | Fisika Matematika 2      |      R     |  4  |
 | APS112 | Mekanika		            |      R     |  3  |
@@ -346,8 +344,7 @@ __Semester 2__
 __Semester 3__
 
 |  KODE  |             NAMA             |  APR  | SKS | 
-|:------:|------------------------------|:-----:|:---:|	   
-| KODE   | NAMA                     |     APR    | SKS |	
+|:------:|------------------------------|:-----:|:---:|	   	
 | APS207 | Fisika Matematika 3      |      R     |  4  |	
 | APS213 | Gelombang				|      R     |  3  |	
 | APS215 | Fisika Thermal           |      R     |  3  |	
@@ -360,7 +357,6 @@ __Semester 4__
 
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
-| KODE   | NAMA                     |     APR    | SKS |
 | APS204 | Projek Bersama           |            |  2  |
 | APS208 | Fisika Matematika 4      |      R     |  4  |
 | APS216 | Fisika Statistika        |      R     |  3  |
@@ -373,7 +369,6 @@ __Semester 5__
 
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
-| KODE   | NAMA                     |     APR    | SKS |	
 |APS323	 |Elektrodinamika	        |R           |  3  |	
 |APS327	 |Fisika Kuantum	        |R           |  4  |	
 |APS335	 |Lab. Fisika Instrumentasi	|P           |  3  |	
@@ -386,7 +381,6 @@ __Semester 6__
 
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
-| KODE   | NAMA                     |     APR    | SKS |
 |APS304	 | Teknik Presentasi		|			 |	2  |
 |APS328	 | Mekanika Kuantum			|			 |	3  |
 |APS342	 | Pengantar Fisika Material|            |	3  |
@@ -400,7 +394,6 @@ __Semester 7__
 
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
-| KODE   | NAMA                     |     APR    | SKS |	
 |APS497	 | Tugas Akhir 1            |            |  4  |    
 |MKU001	 | Pancasila		        |            |  2  |	
 |MKU002	 | Kewarganegaraan		    |            |  2  |	
@@ -411,7 +404,6 @@ __Semester 8__
 
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
-| KODE   | NAMA                     |     APR    | SKS |
 | APS402 | Etika Profesi		    |            |  2  |
 | APS498 | Tugas Akhir 2		    |            |  4  |
 | SAB315 | Kewirausahaan		    |            |  3  |
