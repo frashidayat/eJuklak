@@ -124,7 +124,6 @@ __Semester 2__
 
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|--------------------------|:-----:|:---:|	    
-|  KODE  |         NAMA         |  APR  | SKS |
 | AMS122 |      Kalkulus 2      |       |  4  |
 | AMS124 |  Matematika Diskret  |       |  4  |
 | AMS126 |    Aljabar Matriks   |       |  4  |
@@ -137,7 +136,6 @@ __Semester 3__
 
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	       
-|  KODE  |         NAMA         |  APR  | SKS |   
 | AMS221 |    Kalkulus Vector   |   R   |  4  |   
 | AMS231 |   Teori Suku Bunga   |       |  3  |   
 | AMS251 |     Teori Peluang    |       |  4  |   
@@ -150,7 +148,6 @@ __Semester 4__
 
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
-|  KODE  |             NAMA            |  APR  | SKS |
 | AMS222 |        Aljabar Linear       |   R   |  4  |
 | AMS252 |    Statistika Matematika    |       |  4  |
 | AMS261 |           Optimasi          |       |  4  |
@@ -162,7 +159,6 @@ __Semester 5__
 
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
-|  KODE  |            NAMA            |  APR  | SKS |   
 | AMS321 |       Fungsi Kompleks      |       |  4  |   
 | AMS351 |      Proses Stokastik      |       |  4  |   
 | AMS373 |       Metode Numerik       |       |  3  |   
@@ -174,7 +170,6 @@ __Semester 6__
 
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
-|  KODE  |       NAMA       |  APR  | SKS |
 | AMS322 |   Analisis Real  |   R   |  4  |
 | MKU009 | Bahasa Indonesia |       |  2  |
 | ABCXYZ |      Pilihan     |       |  12 |
@@ -184,7 +179,6 @@ __Semester 7__
 
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
-|  KODE  |         NAMA         |  APR  | SKS |   
 | AMS490 |        Seminar       |       |  3  |   
 | AMS491 | Pemodelan Matematika |       |  4  |   
 | MKU001 |       Pancasila      |       |  2  |   
@@ -195,7 +189,6 @@ __Semester 8__
 
 |  KODE  |             NAMA             |  APR  | SKS | 
 |:------:|------------------------------|:-----:|:---:|	   
-|  KODE  |    NAMA    |  APR  | SKS |
 | AMS499 |   Skripsi  |       |  6  |
 | ABCXYZ |   Pilihan  |       |  9  |
 |        |            | Total | 15  |
@@ -219,7 +212,6 @@ __Matematika Keuangan__
 
 |  KODE  |             NAMA             |  SKS | 
 |:------:|------------------------------|:---:|   
-|  KODE  |                NAMA                | SKS |
 | AMS341 |         Komputasi Keuangan         |  3  |
 | AMS342 |         Matematika Keuangan        |  3  |
 | AMS343 |        Analisis Deret Waktu        |  3  |
