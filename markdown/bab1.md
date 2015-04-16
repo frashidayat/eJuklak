@@ -360,4 +360,3 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 | 8.   | __Risti Suryantari, SSi (UGM), MSc (UGM).__ _Fisika Dasar, Fisika Modern, Gelombang, Fisika Kristal Cair._ Email: ristisuryantari@unpar.ac.id.													  |
 | 9.   | __Husnul Hakim, S.Kom (ITS), MT (ITB)__ _Pemrograman Berorientasi Obyek, Algoritma dan Struktur Data._ Email: husnulhakim@unpar.ac.id|
 | 10.  | __Vania Natali, S.Kom (UNPAR), studi S2 - ITB.__ Email: vania.natali@unpar.ac.id
->>>>>>> fca5a698bc4fdfadfc5d639aaa80681bbb756813
