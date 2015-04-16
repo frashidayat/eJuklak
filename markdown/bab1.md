@@ -189,8 +189,13 @@ tersebut.
 Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
 
 1. Menyelenggarakan program akademik jenjang sarjana dengan memperhatikan visi FTIS untuk menghasilkan lulusan yang:
+<<<<<<< HEAD
   I. Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta aplikasinya.    
   II. Mampu memecahkan permasalahan di bidang teknologi informasi dan sains melalui kegiatan penelitian berdasarkan kaidah-kaidah ilmiah serta menerapkannya untuk peningkatan martabat manusia.    
+=======
+  * Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta aplikasinya.    
+  * Mampu memecahkan permasalahan di bidang teknologi informasi dan sains melalui kegiatan penelitian berdasarkan kaidah-kaidah ilmiah serta menerapkannya untuk peningkatan martabat manusia.
+>>>>>>> fca5a698bc4fdfadfc5d639aaa80681bbb756813
 2. Menghasilkan penelitian di bidang teknologi informasi dan sains yang dapat meningkatkan martabat manusia secara langsung ataupun tidak langsung, serta memanfaatkan hasil penelitian untuk pengembangan proses pembelajaran dan pengabdian kepada masyarakat.
 3. Menjalin kerja sama dengan berbagai pihak baik internal ataupun eksternal untuk meningkatkan keterkaitan proses pembelajaran, penelitian dan pengabdian kepada masyarakat. 
 
@@ -356,7 +361,14 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 | 4.   | __Haryanto Mangaratua Siahaan, SSi (ITB), MSi (ITB), Studi S-3 di University of Saskatchewan.__ Email: haryanto.siahaan@gmail.com																  |
 | 5.   | __Kian Ming, SSi (UNPAR), S-2 (ITB).__ _Fisika Dasar, Teori Relativitas, Kosmologi Relativistik_ Email: kian.ming@unpar.ac.id.																	  |
 | 6.   | __Mariskha Tri Adithia, SSi (ITB), MSc (Universiteit Eindhoven - Belanda), PDEng (Universiteit Eindhoven - Belanda).__ _Struktur Diskret, Kriptografi, Logika Informatika._ Email: mariskha@unpar.ac.id |
+<<<<<<< HEAD
 | 7.   | __Pascal Alfadian, S.Kom (UNPAR), MCom (NUS - Singapore)._ Analisis dan Desain Berorientasi Objek, Pemrograman Beorientasi Objek._ Email: pascal@unpar.ac.id									  |
 | 8.   | __Risti Suryantari, SSi (UGM), MSc (UGM).__ _Fisika Dasar, Fisika Modern, Gelombang, Fisika Kristal Cair._ Email: ristisuryantari@unpar.ac.id.													  |
 | 9.   | __Husnul Hakim, S.Kom (ITS), MT (ITB)__ _Pemrograman Berorientasi Obyek, Algoritma dan Struktur Data._ Email: husnulhakim@unpar.ac.id|
 | 10.  | __Vania Natali, S.Kom (UNPAR), studi S2 - ITB.__ Email: vania.natali@unpar.ac.id
+=======
+| 7.   | __Pascal Alfadian, S.Kom (UNPAR), MCom (NUS - Singapore).__ Analisis dan Desain Berorientasi Objek, Pemrograman Beorientasi Objek._ Email: pascal@unpar.ac.id									  |
+| 8.   | __Risti Suryantari, SSi (UGM), MSc (UGM).__ _Fisika Dasar, Fisika Modern, Gelombang, Fisika Kristal Cair._ Email: ristisuryantari@unpar.ac.id.													  |
+| 9.   | __Husnul Hakim, S.Kom (ITS), MT (ITB)__ _Pemrograman Berorientasi Obyek, Algoritma dan Struktur Data._ Email: husnulhakim@unpar.ac.id|
+| 10.  | __Vania Natali, S.Kom (UNPAR), studi S2 - ITB.__ Email: vania.natali@unpar.ac.id
+>>>>>>> fca5a698bc4fdfadfc5d639aaa80681bbb756813
