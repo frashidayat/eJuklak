@@ -189,11 +189,8 @@ tersebut.
 Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
 
 1. Menyelenggarakan program akademik jenjang sarjana dengan memperhatikan visi FTIS untuk menghasilkan lulusan yang:
-
-  a. Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta aplikasinya.
-    
-  b. Mampu memecahkan permasalahan di bidang teknologi informasi dan sains melalui kegiatan penelitian berdasarkan kaidah-kaidah ilmiah serta menerapkannya untuk peningkatan martabat manusia.
-    
+  I. Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta aplikasinya.    
+  II. Mampu memecahkan permasalahan di bidang teknologi informasi dan sains melalui kegiatan penelitian berdasarkan kaidah-kaidah ilmiah serta menerapkannya untuk peningkatan martabat manusia.    
 2. Menghasilkan penelitian di bidang teknologi informasi dan sains yang dapat meningkatkan martabat manusia secara langsung ataupun tidak langsung, serta memanfaatkan hasil penelitian untuk pengembangan proses pembelajaran dan pengabdian kepada masyarakat.
 3. Menjalin kerja sama dengan berbagai pihak baik internal ataupun eksternal untuk meningkatkan keterkaitan proses pembelajaran, penelitian dan pengabdian kepada masyarakat. 
 
@@ -306,10 +303,9 @@ sebagainya.
 Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan website.
 
 ####Guru Besar
-|        Prof B. Suprapto Brotosiswojo, Dr. (Purdue University,USA)       |
-|:-----------------------------------------------------------------------:|
-| Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam. |
-|                       Email : bensupra@unpar.ac.id                      |
+| No.  | Dosen                                                                                                                                                                                                                        |
+|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.   | __Prof B. Suprapto Brotosiswojo, Dr. (Purdue University,USA)__ _Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam._ Email : bensupra@unpar.ac.id                                                        |
 
 ####Lektor Kepala
 | No.  | Dosen                                                                                                                                                                                                                        |
@@ -325,7 +321,6 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 | 9.   | __Sylvia Hastuti Sutanto, Ssi (ITB), PhD (Australian National University)__ _Fisika Matematika 3 & 4, Mekanika Hamiltonian, Dinamika Fluida._ Email : sylvia@unpar.ac.id                                                            |
 | 10.  | __Marcus Wono Setya Budhi, PhD (Univ. of Illinois – USA)__ _Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar._ Email : wono@math.itb.ac.id                                                                          |
 | 11.  | __Veronica Sri Moertini, ST (ITB), MT (ITB), Dr. (ITB)__ _Basis Data, Penambangan Data, Projek Sistem Informasi._ Email : moertini@unpar.ac.id                                                                                     |
-
 
 ####Lektor
 | No. | Dosen                                                                                                                                                                                                  |
@@ -351,3 +346,17 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 | 8.   | __Taufik Limansyah, SSi (UNPAR), Studi S-2 Teknik Industri di UNPAR__ _Kalkulus 1, Kalkulus II, Fisika Matematik 1._ Email : taufik.limansyah@unpar.ac.id                                        |
 | 9.   | __Thomas Anung Basuki, ST (ITB), MKom (UI), Dr. (University of Pisa – Italia)__ _Pengantar Sistem Cerdas, Rekayasa Perangkat Lunak, Penulisan Ilmiah._ Email : anung@unpar.ac.id                 |
 | 10.  | __Maria Anestasia, SSi (ITB), MSi (ITB)__ _Kalkulus 2, Persamaan Diferensial Biasa, Kalkulus Vektor._ Email : maria.anestasia@unpar.ac.id    
+
+####Golongan III
+|  No. |                                                                                            Dosen                                                                                           |
+|----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.   | __Chandra Wijaya, S.Kom (UNPAR), MT (ITB).__ _Jaringan Komputer, Sistem Digital._  Email: chandraw@unpar.ac.id                                                                                   |
+| 2.   | __Elok Fidiani, SSi (UGM), MSc (TU Dresden).__ _Fisika Dasar, Fisika Statistik, Pengantar Fisika Material, Nanoteknologi dan Lingkungan._ Email: elokfidiani@unpar.ac.id, elokfidiani@gmail.com  |
+| 3.   | __Flaviana Catherine, SSi (UNPAR), MSi (ITB).__ _Fisika Dasar, Pengantar Fisika Nuklir, Fisika Kedokteran, Fisika Instrumentasi Medis._ Email: flaviana@unpar.ac.id							  |
+| 4.   | __Haryanto Mangaratua Siahaan, SSi (ITB), MSi (ITB), Studi S-3 di University of Saskatchewan.__ Email: haryanto.siahaan@gmail.com																  |
+| 5.   | __Kian Ming, SSi (UNPAR), S-2 (ITB).__ _Fisika Dasar, Teori Relativitas, Kosmologi Relativistik_ Email: kian.ming@unpar.ac.id.																	  |
+| 6.   | __Mariskha Tri Adithia, SSi (ITB), MSc (Universiteit Eindhoven - Belanda), PDEng (Universiteit Eindhoven - Belanda).__ _Struktur Diskret, Kriptografi, Logika Informatika._ Email: mariskha@unpar.ac.id |
+| 7.   | __Pascal Alfadian, S.Kom (UNPAR), MCom (NUS - Singapore)._ Analisis dan Desain Berorientasi Objek, Pemrograman Beorientasi Objek._ Email: pascal@unpar.ac.id									  |
+| 8.   | __Risti Suryantari, SSi (UGM), MSc (UGM).__ _Fisika Dasar, Fisika Modern, Gelombang, Fisika Kristal Cair._ Email: ristisuryantari@unpar.ac.id.													  |
+| 9.   | __Husnul Hakim, S.Kom (ITS), MT (ITB)__ _Pemrograman Berorientasi Obyek, Algoritma dan Struktur Data._ Email: husnulhakim@unpar.ac.id|
+| 10.  | __Vania Natali, S.Kom (UNPAR), studi S2 - ITB.__ Email: vania.natali@unpar.ac.id
