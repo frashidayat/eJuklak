@@ -22,7 +22,7 @@
     <!-- Page Url -->
 
     <string-array name="pageurl">
-        <item>http://www.google.com</item>
+        <item>file:///android_asset/webhome/website/home.htm</item>
         <item>file:///android_asset/Bab1.html</item>
         <item>file:///android_asset/Bab2.html</item>
         <item>file:///android_asset/Bab3.html</item>
