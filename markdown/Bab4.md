@@ -55,7 +55,7 @@ Evaluasi keberhasilan belajar dilakukan secara berkesinambungan, sejak mahasiswa
 Evaluasi keberhasilan belajar tiap semester dilakukan segera setelah mahasiswa menempuh UAS. Evaluasi Keberhasilan Belajar tiap semester ini dinyatakan dalam **Indeks Prestasi Semester (IPS)** yang mempunyai rentang **0,00 – 4,00** dan dihitung dengan rumus:
 
 
-![](images/Rumus1.PNG)
+![](images/Rumus 1.PNG)
 
 dengan (sks × bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. IPS digunakan untuk menetapkan **beban kredit** yang dapat ditempuh mahasiswa pada **semester berikutnya**. 
 
