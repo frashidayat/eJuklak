@@ -1,4 +1,4 @@
-Petunjuk Pelaksanaan Kegiatan Akademik Tahun 2014/2015
+﻿Petunjuk Pelaksanaan Kegiatan Akademik Tahun 2014/2015
 ======================================================
 
 ![](images/unpar.png)
@@ -80,7 +80,7 @@ Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilk
 #####Paulus Cahyono Tjiang, Ph.D.
 
 
-##Bab 1: Pendahuluan
+##BAB 1 PENDAHULUAN
 ------------------
 
 #### 1.1 Sejarah Fakultas Teknologi Informasi dan Sains
