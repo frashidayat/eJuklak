@@ -80,7 +80,7 @@ Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilk
 #####Paulus Cahyono Tjiang, Ph.D.
 
 
-Bab 1: Pendahuluan
+##Bab 1: Pendahuluan
 ------------------
 
 #### 1.1 Sejarah Fakultas Teknologi Informasi dan Sains
