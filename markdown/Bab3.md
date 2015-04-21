@@ -22,15 +22,11 @@ Kegiatan Akademik di lingkungan FTIS, dan UNPAR pada umumnya, terdiri atas:
 Sebelum mengikuti kegiatan akademik seperti matakuliah, responsi dan praktikum, pada setiap semester seorang mahasiswa perlu menyusun rencana studi bagi dirinya. Rencana studi ini memuat daftar matakuliah yang akan diikuti pada semester yang bersangkutan.
 Dalam menentukan matakuliah yang akan diambil, dapat digunakan pedoman berikut: 
 
-a.	Pada umumnya, mahasiswa mengambil semua mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya. 
-
-b.	Memprioritaskan matakuliah semester lebih awal yang belum lulus. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi matakuliah yang memprasyaratkannya.
-
-c.	Memprioritaskan matakuliah menjadi prasyarat (baik prasyarat tempuh atau pun prasyarat lulus) bagi matakuliah lain.
-
-d.	Memperhatikan jadwal kuliah dan ujian yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan matakuliah-matakuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.
-
-e.	Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 sebagai berikut :
+1.	Pada umumnya, mahasiswa mengambil semua mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya. 
+2.	Memprioritaskan matakuliah semester lebih awal yang belum lulus. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi matakuliah yang memprasyaratkannya.
+3.	Memprioritaskan matakuliah menjadi prasyarat (baik prasyarat tempuh atau pun prasyarat lulus) bagi matakuliah lain.
+4.	Memperhatikan jadwal kuliah dan ujian yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan matakuliah-matakuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.
+5.	Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 sebagai berikut :
 
 | IPS        | Hak Tempuh pada Semester Berikutnya |
 |:----------:|:-----------------------------------:|
@@ -39,9 +35,9 @@ e.	Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parah
 |<= 2,49     | Maksimum 18 SKS                     |
 
 Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian : 
-*	1 jam kuliah 
-*	1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
-*	1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
++	1 jam kuliah 
++	1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
++	1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, di rumah, dsb).
 
 Untuk menentukan matakuliah apa saja yang akan diambil, mahasiswa dapat/wajib berkonsultasi dengan dosen wali (tergantung dari aturan prodi masing-masing). Bersama dosen wali, mahasiswa dapat merundingkan penerapan pedoman di atas ini bagi dirinya, dengan memperhatikan berbagai keadaan yang berlaku.
 Masa perwalian juga merupakan kesempatan bagi mahasiswa yang ingin mendiskusikan masalah akademik dan non-akademik yang dirasakan dapat mengganggu studi mahasiswa yang bersangkutan di FTIS . Namun perlu diperhatikan bahwa dosen wali hanya bertindak sebagai _penasehat/pemberi saran_ berdasarkan pengalamannya. Penyelesaian masalah sepenuhnya berada di tangan mahasiswa yang mengalaminya.
@@ -81,6 +77,7 @@ Perincian kegiatan perkuliahan adalah sebagai berikut:
 
 ####3.3 Tata Cara Ujian
 Yang dimaksud dengan ujian adalah kegiatan evaluasi keberhasilan belajar hingga suatu tahap yang ditetapkan. Ujian terdiri atas :
+
 1. Ujian Tengah Semester (UTS)
 2. Ujian Akhir Semester (UAS)
 3. Ujian Praktikum (jika ada)
