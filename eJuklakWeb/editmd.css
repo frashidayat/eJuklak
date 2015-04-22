@@ -1,10 +1,12 @@
-tr,th,td{
-	border:2px solid black;
+table {
+    border-collapse: collapse;
 }
-p {
-	text-align:justify;
+
+table,td,th{
+	border:1px solid;
+	text-align:center;
 }
-blockquote {
-	text-align:justify;	
+
+blockquote {	
 	font-style:italic;
 }

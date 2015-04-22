@@ -1,4 +1,5 @@
-##BAB 2 PENYELENGGARAAN MATA KULIAH
+﻿##BAB 2 PENYELENGGARAAN MATA KULIAH
+---------------------------------------
 
 Secara umum matakuliah yang diselenggarakan oleh program studi dapat dikelompokkan kedalam dua jenis yaitu matakuliah wajib dan matakuliah pilihan. Matakuliah wajib merupakan matakuliah yang sifatnya wajib/harus ditempuh oleh setiap mahasiswa. Sebagian dari matakuliah wajib tersebut termasuk kedalam kelompokmatakuliah umum (MKU), yaitu matakuliah yang terkait dengan pengembangan kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora. 
 Matakuliah pilihan bertujuan untuk menyiapkan mahasiswa untuk memasuki dunia kerja dan memperluas wawasan mahasiswa terhadap bidang ilmu lain sehingga memungkinkan melakukan tugas interdisiplin. Matakuliah pilihan dapat diambil dari matakuliah pilihan yang diselenggarakan oleh program studi (prodi) yang bersangkutan, atau matakuliah (baik wajib maupun pilihan) yang diselenggarakan oleh prodi lain di lingkungan UNPAR. Mahasiswa mengambil matakuliah pilihan berdasarkan persetujuan dari dosen wali. 
