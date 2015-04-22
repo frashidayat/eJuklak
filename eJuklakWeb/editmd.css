@@ -1,15 +1,12 @@
 table {
     border-collapse: collapse;
 }
+
 table,td,th{
 	border:1px solid;
 	text-align:center;
 }
-h1,h2,h3,h4,h5,h6 {
-	text-align:justify;	
-}
 
-blockquote {
-	text-align:justify;	
+blockquote {	
 	font-style:italic;
 }
