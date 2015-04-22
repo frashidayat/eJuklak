@@ -1,9 +1,14 @@
-tr,th,td{
-	border:2px solid black;
+table {
+    border-collapse: collapse;
 }
-p {
-	text-align:justify;
+table,td,th{
+	border:1px solid;
+	text-align:center;
 }
+h1,h2,h3,h4,h5,h6 {
+	text-align:justify;	
+}
+
 blockquote {
 	text-align:justify;	
 	font-style:italic;
