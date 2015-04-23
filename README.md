@@ -25,3 +25,18 @@ PERBAIKAN SETELAH PRESENTASI KE-4 (v0.4 beta)
 15. Gambar cukup dari webview, 100% tapi bisa di zoom
 
 PERBAIKI LIST DAN SUBLIST (DARI BAB 1 - BAB 4) DENGAN MEN-SPASI EMPAT KALI
+
+     v1.0
+        Versi final pertama dari aplikasi, tidak ada lagi fitur yang "belum diimplementasikan" atau "bug yang belum diperbaiki"
+        Dokumentasi lengkap
+
+Dokumentasi
+
+Dokumentasi berisi:
+
+    Penjelasan cara menggunakan aplikasi
+    Penjelasan cara mem-build aplikasi dari source code yang ada di repositori
+    Penjelasan struktur program, seperti:
+        Use Case Diagram
+        Class Diagram beserta penjelasan tiap kelas.
+        Sequence Diagram
