@@ -15,3 +15,10 @@ PERBAIKAN SETELAH PRESENTASI KE-3
 8. Klik gambar menggunakan anchor (dicoba di apps)
 9. Anchor diubah di apps
 10. CSS android
+
+PERBAIKAN SETELAH PRESENTASI KE-4 (v0.4 beta)
+11. Perkuliahan di tabel di copy
+12. IPK dibesarkan
+13. APK home untuk mahasiswa dihapus
+14. Atasi Anchor
+15. Gambar cukup dari webview, 100% tapi bisa di zoom
