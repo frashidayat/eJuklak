@@ -15,8 +15,8 @@ Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahas
 | Bentuk  Kegiatan |                      Komponen  Kegiatan                     |                  Angka                  |                    %                    |
 |:----------------:|:-----------------------------------------------------------:|:---------------------------------------:|:---------------------------------------:|
 | Perkuliahan      | Pelaksanaan Tugas                                           | Angka Rata-rata Tugas (ART)             | 20%-40%                                 |
-|                  | Tatap Muka                                                  | Angka Ujian Tengah Semester (UTS)       | 30%-50%                                 |
-|                  |                                                             | Angka Ujian Akhir Semester (UAS)        | 30%-50%                                 |
+| Perkuliahan      | Tatap Muka                                                  | Angka Ujian Tengah Semester (UTS)       | 30%-50%                                 |
+| Perkuliahan      |         Tatap Muka                                          | Angka Ujian Akhir Semester (UAS)        | 30%-50%                                 |
 | Seminar          | Penyajian, Diskusi/,Partisipasi,Penyusunan Makalah /Laporan | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |
 | Skripsi          | Penyusunan,dan Penyajian                                    | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |
 
@@ -93,8 +93,8 @@ IPK dihitung dengan memperhatikan semua mata kuliah yang pernah ditempuh oleh ma
 |-------------|---------------------------------------------------------|
 | 2.00 - 2.75 | Memuaskan                                               |
 | 2.76 - 3.50 | Sangat Memuaskan                                        |
-| 3.51 - 4.00 | Dengan Pujian (masa studi terpakai **≤ 9 semester**)    |
-|             | Sangat Memuaskan (masa studi terpakai **> 9 semester**) |
+| 3.51 - 4.00 | Dengan Pujian (masa studi terpakai **= 9 semester**)    |
+| 3.51 - 4.00 | Sangat Memuaskan (masa studi terpakai **> 9 semester**) |
 
 
 ###4.3 Kemampuan Bahasa Inggris Mahasiswa UNPAR
