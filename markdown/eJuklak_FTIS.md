@@ -1,5 +1,4 @@
 Petunjuk Pelaksanaan Kegiatan Akademik Tahun 2014/2015
-======================================================
 
 ![](images/unpar.png)
 
@@ -26,64 +25,26 @@ Tim Penyusun
 * Pranyoto Teguh Imanto
 * Thomas Anung Basuki
 
-Copyright (c) 2014 FTIS UNPAR
+Copyright &copy; 2014 FTIS UNPAR
 
-Kata Pengantar Dekan Fakultas Teknologi Informasi dan Sains Universitas Katolik Parahyangan
--------------------------------------------------------------------------------------------
+# Kata Pengantar Dekan Fakultas Teknologi Informasi dan Sains Universitas Katolik Parahyangan
 
-Sejak berdirinya Fakultas Teknologi Informasi dan Sains (d/h Fakultas Matematika
-dan Ilmu Pengetahuan Alam) - Universitas Katolik Parahyangan pada tahun 1993,
-Fakultas berupaya untuk meningkatkan kualitas pelaksanaan Tridharma Perguruan
-Tinggi (Pengajaran - Penelitian - Pengabdian Kepada Masyarakat) secara bertahap
-dan berkesinambungan sesuai dengan visi dan misi yang diembannya. Pada tahun
-2007, Universitas Katolik Parahyangan berkomitmen untuk melaksanakan penjaminan
-mutu internal sesuai dengan ketentuan Peraturan Pemerintah Republik Indonesia
-Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan. Untuk menjamin bahwa
-standar-standar yang telah ditetapkan dalam Sistem Penjaminan Mutu Internal
-Universitas Katolik Parahyangan dapat terlaksana dengan baik, Fakultas
-menerbitkan Buku Petunjuk Pelaksanaan Kegiatan Akademik Fakultas Teknologi
-Informasi dan Sains Tahun Akademik 2013 - 2014 sebagai pedoman bagi seluruh
-civitas academica Fakultas dalam melaksanakan kegiatan akademik.
+Sejak berdirinya Fakultas Teknologi Informasi dan Sains (d/h Fakultas Matematika dan Ilmu Pengetahuan Alam) - Universitas Katolik Parahyangan pada tahun 1993, Fakultas berupaya untuk meningkatkan kualitas pelaksanaan Tridharma Perguruan Tinggi (Pengajaran - Penelitian - Pengabdian Kepada Masyarakat) secara bertahap dan berkesinambungan sesuai dengan visi dan misi yang diembannya. Pada tahun 2007, Universitas Katolik Parahyangan berkomitmen untuk melaksanakan penjaminan mutu internal sesuai dengan ketentuan Peraturan Pemerintah Republik Indonesia Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan. Untuk menjamin bahwa standar-standar yang telah ditetapkan dalam Sistem Penjaminan Mutu Internal Universitas Katolik Parahyangan dapat terlaksana dengan baik, Fakultas menerbitkan Buku Petunjuk Pelaksanaan Kegiatan Akademik Fakultas Teknologi Informasi dan Sains Tahun Akademik 2013 - 2014 sebagai pedoman bagi seluruh civitas academica Fakultas dalam melaksanakan kegiatan akademik.
 
-Berdasarkan pengalaman dalam pengelolaan Fakultas, didapati sejumlah kasus
-kegagalan dalam pelaksanaan kegiatan akademik dan administrasi yang disebabkan
-karena ketidaktahuan civitas academica pada sejumlah ketentuan akademik dan
-administratif yang berlaku. Oleh karena itu, setiap anggota civitas academica
-Fakultas diharapkan mempelajari dan memahami dengan seksama setiap ketentuan
-yang tertuang dalam buku petunjuk pelaksanaan kegiatan akademik tersebut.
-Penerbitan buku petunjuk versi terbaru akan dilakukan secara rutin pada setiap
-awal tahun akademik, sehingga civitas academica di lingkungan Fakultas
-memperoleh informasi terkini tentang tatacara pelaksanaan kegiatan akademik yang
-berlaku di lingkungan Fakultas. Dengan demikian, diharapkan civitas academica
-Fakultas selalu mengacu pada informasi-informasi yang tercantum dalam buku
-petunjuk terkini dalam melaksanakan kegiatan akademik. Apabila dalam pelaksanaan
-kegiatan akademik ditemukan hal-hal yang kurang jelas dalam buku petunjuk
-tersebut, maka civitas academica dapat menghubungi para pimpinan di lingkungan
-Fakultas untuk memperoleh penjelasan. Beberapa hal yang belum tercantum dalam
-buku petunjuk ini akan disampaikan melalui papan pengumuman serta media
-komunikasi lainnya, dan akan diakomodasi dalam buku petunjuk pelaksanaan
-kegiatan akademik tahun akademik berikutnya.
+Berdasarkan pengalaman dalam pengelolaan Fakultas, didapati sejumlah kasus kegagalan dalam pelaksanaan kegiatan akademik dan administrasi yang disebabkan karena ketidaktahuan civitas academica pada sejumlah ketentuan akademik dan administratif yang berlaku. Oleh karena itu, setiap anggota civitas academica Fakultas diharapkan mempelajari dan memahami dengan seksama setiap ketentuan yang tertuang dalam buku petunjuk pelaksanaan kegiatan akademik tersebut. Penerbitan buku petunjuk versi terbaru akan dilakukan secara rutin pada setiap awal tahun akademik, sehingga civitas academica di lingkungan Fakultas memperoleh informasi terkini tentang tatacara pelaksanaan kegiatan akademik yang berlaku di lingkungan Fakultas. Dengan demikian, diharapkan civitas academica Fakultas selalu mengacu pada informasi-informasi yang tercantum dalam buku petunjuk terkini dalam melaksanakan kegiatan akademik. Apabila dalam pelaksanaan kegiatan akademik ditemukan hal-hal yang kurang jelas dalam buku petunjuk tersebut, maka civitas academica dapat menghubungi para pimpinan di lingkungan Fakultas untuk memperoleh penjelasan. Beberapa hal yang belum tercantum dalam buku petunjuk ini akan disampaikan melalui papan pengumuman serta media komunikasi lainnya, dan akan diakomodasi dalam buku petunjuk pelaksanaan kegiatan akademik tahun akademik berikutnya.
 
-Semoga buku petunjuk ini dapat membantu kelancaran pelaksanaan kegiatan
-akademik, yang selanjutnya akan berdampak pada peningkatan kualitas pembelajaran
-yang berkesinambungan. Setiap kritik dan saran berkaitan dengan penyempurnaan
-buku ini sangat kami harapkan dan hargai.
+Semoga buku petunjuk ini dapat membantu kelancaran pelaksanaan kegiatan akademik, yang selanjutnya akan berdampak pada peningkatan kualitas pembelajaran yang berkesinambungan. Setiap kritik dan saran berkaitan dengan penyempurnaan buku ini sangat kami harapkan dan hargai.
 
 Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilkan.
 
+**Bandung**,
+**Dekan**,
+
+**Paulus Cahyono Tjiang, Ph.D.**
 
 
-#####Bandung,     
-#####Dekan,
-
-
-#####Paulus Cahyono Tjiang, Ph.D.
-
-
-BAB 1 PENDAHULUAN
-------------------
-
-#### 1.1 Sejarah Fakultas Teknologi Informasi dan Sains
+# BAB 1 PENDAHULUAN
+## 1.1 Sejarah Fakultas Teknologi Informasi dan Sains
 
 Fakultas Teknologi Informasi dan Sains (FTIS) Universitas Katolik Parahyangan
 (UNPAR) berawal dari Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA).
@@ -109,17 +70,11 @@ tanggal 1 April 2009.
 
 Ketiga program studi tersebut saat ini telah memperoleh status akreditasi dari
 Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT) dengan rincian sebagai
-berikut:
+berikut:  
 
-* Program Studi Matematika memperoleh status akreditasi dengan peringkat A
-  (Amat baik) berdasarkan Keputusan BAN-PT Nomor029/BAN-PT/Ak-XIII/S1/XI/2010
-  tertanggal 3 Desember 2010 dengan masa berlaku hingga 3 Desember 2015. 
-* Program Studi Fisika memperoleh status akreditasi dengan peringkat B (Baik)
-  berdasarkan Keputusan BAN-PTNomor036/BAN-PT/AK-XIII/S1/I/2011 tertanggal 7
-  Januari 2011 dengan masa berlaku hingga 7 Januari 2016. 
-* Program Studi Teknik Informatika memperoleh status akreditasi dengan peringkat
-  B (Baik) berdasarkan Keputusan BAN-PTNomor 042/BAN-PT/Ak-XIII/S1/I/2011
-  tertanggal 21 Januari 2011 dengan masa berlaku hingga 21 Januari 2016
+* Program Studi Matematika memperoleh status akreditasi dengan peringkat A (Amat baik) berdasarkan Keputusan BAN-PT Nomor029/BAN-PT/Ak-XIII/S1/XI/2010 tertanggal 3 Desember 2010 dengan masa berlaku hingga 3 Desember 2015. 
+* Program Studi Fisika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PTNomor036/BAN-PT/AK-XIII/S1/I/2011 tertanggal 7 Januari 2011 dengan masa berlaku hingga 7 Januari 2016. 
+* Program Studi Teknik Informatika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PTNomor 042/BAN-PT/Ak-XIII/S1/I/2011 tertanggal 21 Januari 2011 dengan masa berlaku hingga 21 Januari 2016
 
 Ketiga program studi yang sekarang berada dalam naungan FTIS ini dilaksanakan
 berdasarkan suatu kurikulum yang berbobot 144 sks (satuan kredit semester)
@@ -133,18 +88,14 @@ Visi dan Misi FTIS - UNPAR mengacu pada visi dan misi UNPAR. Visi UNPAR adalah
 > mengembangkan potensi lokal pada tataran internasional demi peningkatan martabat
 > manusia dan keutuhan alam ciptaan.
 
-Sebagai sebuah lembaga ilmiah, misi UNPAR adalah melaksanakan
+Sebagai sebuah lembaga ilmiah, misi UNPAR adalah melaksanakan  
 
 * pengembangan dan pewarisan nilai budaya secar kritis - kreatif;
 * proses pembelajaran yang berpusat pada mahasiswa;
-* penelitian dan penyebarluasan hasilnya melalui proses pembelajaran dan
-  pengabdian kepada masyarakat; dan
+* penelitian dan penyebarluasan hasilnya melalui proses pembelajaran dan pengabdian kepada masyarakat; dan
 * pengabdian kepada masyarakat,
 
-sesuai dengan sesanti Bakuning Hyang Mrih Guna Santyaya Bhakti, yang berarti
-Berdasarkan Ketuhanan Menuntut Ilmu untuk Dibaktikan kepada Masyarakat.
-Melalui visi dan misi UNPAR, dirumuskanlah visi dan misi beserta tujuan FTIS
-UNPAR.
+sesuai dengan sesanti *Bakuning Hyang Mrih Guna Santyaya Bhakti*, yang berarti Berdasarkan Ketuhanan Menuntut Ilmu untuk Dibaktikan kepada Masyarakat. Melalui visi dan misi UNPAR, dirumuskanlah visi dan misi beserta tujuan FTIS UNPAR.
 
 #### 1.2.1 VISI FTIS
 
@@ -189,8 +140,8 @@ tersebut.
 Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
 
 1. Menyelenggarakan program akademik jenjang sarjana dengan memperhatikan visi FTIS untuk menghasilkan lulusan yang:
-  * Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta aplikasinya.    
-  * Mampu memecahkan permasalahan di bidang teknologi informasi dan sains melalui kegiatan penelitian berdasarkan kaidah-kaidah ilmiah serta menerapkannya untuk peningkatan martabat manusia.      
+    * Mampu mengembangkan bidang-bidang teknologi informasi dan sains serta aplikasinya.    
+    * Mampu memecahkan permasalahan di bidang teknologi informasi dan sains melalui kegiatan penelitian berdasarkan kaidah-kaidah ilmiah serta menerapkannya untuk peningkatan martabat manusia.      
 2. Menghasilkan penelitian di bidang teknologi informasi dan sains yang dapat meningkatkan martabat manusia secara langsung ataupun tidak langsung, serta memanfaatkan hasil penelitian untuk pengembangan proses pembelajaran dan pengabdian kepada masyarakat.
 3. Menjalin kerja sama dengan berbagai pihak baik internal ataupun eksternal untuk meningkatkan keterkaitan proses pembelajaran, penelitian dan pengabdian kepada masyarakat. 
 
@@ -1020,10 +971,10 @@ Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuan
 Beberapa matakuliah memiliki skor coding antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan matakuliah setiap semester, memiliki jumlah skor coding> 0.
 3.	Nilai minimum kuliah jalur pemrograman/algoritma
 Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:
-	- Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
-	- Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
-	- Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
-	- Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek
+    - Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+    - Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
+    - Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
+    - Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek
 maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
 
 
@@ -1196,14 +1147,14 @@ Jika ada masalah tentang ini, hal ini perlu dilaporkan secara tertulis oleh maha
 Perincian kegiatan perkuliahan adalah sebagai berikut:
 
 1. **Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS)**, yang sebaiknya dimanfaatkan secara maksimal dengan:
-  * membaca bahan yang diperkirakan akan dibahas dosen,
-  * menanyakan segala hal yang belum jelas kepada dosen,
-  * meminta saran dosen tentang cara belajar dan berlatih yang baik.
-  **Kehadiran** pada perkuliahan disyaratkan minimal 80%, agar pemanfaatan tersebut di atas dapat didukung. Pelanggaran dapat      berakibat kehilangan hak tempuh ujian pada mata kuliah ini. Ketidakhadiran perlu dilaporkan secara tertulis sesegera         mungkin kepada dosen, beserta alasan cukup kuat dan sah.
+    * membaca bahan yang diperkirakan akan dibahas dosen,
+    * menanyakan segala hal yang belum jelas kepada dosen,
+    * meminta saran dosen tentang cara belajar dan berlatih yang baik.
+    **Kehadiran** pada perkuliahan disyaratkan minimal 80%, agar pemanfaatan tersebut di atas dapat didukung. Pelanggaran dapat      berakibat kehilangan hak tempuh ujian pada mata kuliah ini. Ketidakhadiran perlu dilaporkan secara tertulis sesegera         mungkin kepada dosen, beserta alasan cukup kuat dan sah.
 2. **Kegiatan akademik terstruktur (± 1 jam/SKS)**, yang dapat berupa responsi, praktikum, pekerjaan rumah, dan/atau tugas lain dari dosen, untuk mengokohkan pembelajaran. 
-  * _Responsi_ merupakan kegiatan dimana mahasiswa dapat memanfaatkan kehadiran asisten untuk membantu memecahkan soal dan     masalah teknis yang belum dikuasai. 
-  * _Praktikum_ bertujuan melengkapi kegiatan perkuliahan, agar keterkaitan antara teori dan praktek dapat dikokohkan. 
-  * _Pekerjaan_ rumah merupakan latihan yang diberikan oleh dosen untuk menguasai bahan kuliah dengan baik, yang dapat           dilakukan sendiri maupun kelompok. 
+    * _Responsi_ merupakan kegiatan dimana mahasiswa dapat memanfaatkan kehadiran asisten untuk membantu memecahkan soal dan     masalah teknis yang belum dikuasai. 
+    * _Praktikum_ bertujuan melengkapi kegiatan perkuliahan, agar keterkaitan antara teori dan praktek dapat dikokohkan. 
+    * _Pekerjaan_ rumah merupakan latihan yang diberikan oleh dosen untuk menguasai bahan kuliah dengan baik, yang dapat           dilakukan sendiri maupun kelompok. 
 3. **Kegiatan akademik mandiri(± 1 jam / sks)**, merupakan kegiatan yang dilakukan sendiri (di perpustakaan, di rumah, atau di tempat lain) oleh mahasiswa. Hal ini amat perlu, untuk dapat merenungkan dan mencernakan bahan kuliah. Kegiatan ini dapat terdiri atas membaca buku teks atau buku lain, catatan kuliah, responsi, atau praktikum, membuat soal yang ditugaskan dan yang dipilih sendiri, membuat skema pokok bahasan yang telah dipelajari, belajar dalam kelompok studi, dsb.
 
 ####3.3 Tata Cara Ujian
@@ -1261,11 +1212,11 @@ Syarat untuk mengikuti UTS dan UAS:
 7. Peserta ujian menyerahkan lembar jawab kepada pengawas setelah menyelesaikan ujian atau tepat setelah waktu ujian berakhir. **Kertas buram** terisi atau tidak harus **dikumpulkan kembali** bersama dengan lembar jawab.
 8. Peserta ujian yang telah menyelesaikan ujian diperkenankan untuk meninggalkan ruang ujian paling cepat **30 menit** setelah ujian dimulai.
 9. Dilarang keras **melakukan kecurangan** dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:
-  a. **Melihat** berkas ujian milik peserta ujian lain;
-  b. **Memperlihatkan** atau memberikan berkas ujian milik sendiri kepada peserta ujian lain;
-  c. **Memberikan** atau menerima petunjuk atau jawaban ujian dengan cara dan media apapun;
-  d. **Melihat** buku ajar, diktat, atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan         terbuka);
-  e. **Pinjam-meminjam** alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian              berlangsung.
+    a. **Melihat** berkas ujian milik peserta ujian lain;
+    b. **Memperlihatkan** atau memberikan berkas ujian milik sendiri kepada peserta ujian lain;
+    c. **Memberikan** atau menerima petunjuk atau jawaban ujian dengan cara dan media apapun;
+    d. **Melihat** buku ajar, diktat, atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan         terbuka);
+    e. **Pinjam-meminjam** alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian              berlangsung.
 10.	Peserta ujian yang melakukan kecurangan pada saat ujian akan dikenakan sanksi akademik yang tertera pada Buku Petunjuk Pelaksanaan Akademik FTIS.  
 11.	Selama ujian berlangsung, peserta ujian tidak diperkenankan meninggalkan ruangan ujiandengan alasan apapun (kecuali peserta yang telah selesai mengerjakan ujian). Peserta ujian yang hendak ke WC, harus melakukannya sebelum ujian dimulai.
 
@@ -1287,9 +1238,9 @@ Mahasiswa yang terbukti melakukan **pelanggaran norma kejujuran** pada saat meng
 ####3.3.4	Lain-lain
 1. **Tidak ada ujian khusus** untuk perbaikan nilai ujian.
 2. Tidak ada ujian khusus bagi mahasiswa yang tidak hadir dalam ujian. Apabila mahasiswa yang bersangkutan mengalami hal-hal di bawah ini saat ujian matakuliah mahasiswa yang bersangkutan sedang berlangsung:
-  * Sakit, yang diperkuat oleh _surat keterangan rawat inap_ dari rumah sakit.
-  * Mewakili negara / UNPAR dalam suatu kegiatan tertentu.
-  * Hal lain yang yang dapat diterima oleh pimpinan fakultas beserta pimpinan jurusan.
+    * Sakit, yang diperkuat oleh _surat keterangan rawat inap_ dari rumah sakit.
+    * Mewakili negara / UNPAR dalam suatu kegiatan tertentu.
+    * Hal lain yang yang dapat diterima oleh pimpinan fakultas beserta pimpinan jurusan.
 Maka mahasiswa tersebut dapat mengajukan permohonan _ujian susulan_ bagi mata kuliah terkait kepada WD-1 dengan tembusan kepada pimpinan jurusan terkait sebelum batas waktu pengajuan yang ditentukan setiap semesternya.
 
 Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahgunaan wewenang oleh pengawas ujian dapat dilakukan dalam bentuk pengaduan tertulis dalam amplop tertutup yang ditujukan kepada WD-1.
@@ -1308,11 +1259,11 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 3. Ijin pengambilan cuti studi diberikan oleh Dekan FTIS dan dinyatakan dalam bentuk surat resmi, dan diberitahukan kepada WR-1, WR-2, Kepala Biro Administrasi Akademik dan Kemahasiswaan (BAA) dan Kepala Biro Administrasi Keuangan (BIKEU).
 4. Masa cuti studi **tidak diperhitungkan** sebagai masa studi terpakai dalam evaluasi tahap studi.
 5. Bagi mahasiswa yang mendapat ijin cuti dari Dekan FTIS, wajib 
-  * Mengisi Formulir Rencana Studi dengan beban **0 (nol)** sks, dan didaftarkan sesuai dengan **prosedur yang ada**.
-  * Membayar **100% (seratus persen)** Tarif Biaya Registrasi (sesuai dengan Peraturan Pengurus Yayasan UNPAR no. 06 th. 2008     tentang Pemisahan Tarif Biaya Registrasi dan Biaya Pengembangan). 
+    * Mengisi Formulir Rencana Studi dengan beban **0 (nol)** sks, dan didaftarkan sesuai dengan **prosedur yang ada**.
+    * Membayar **100% (seratus persen)** Tarif Biaya Registrasi (sesuai dengan Peraturan Pengurus Yayasan UNPAR no. 06 th. 2008     tentang Pemisahan Tarif Biaya Registrasi dan Biaya Pengembangan). 
 6. Dalam hal mahasiswa mengajukan permohonan cuti studi **setelah masa PRS berakhir**, ijin cuti hanya dapat diberikan oleh Dekan FTIS apabila 
-  * Memiliki alasan yang sangat kuat dan tidak dapat dihindarkan.
-  * Mendapat ijin dari WR-1.
+    * Memiliki alasan yang sangat kuat dan tidak dapat dihindarkan.
+    * Mendapat ijin dari WR-1.
 Dalam hal ini, biaya yang telah dibayarkan mahasiswa pada semester yang terkait dengan cuti tersebut **tidak dapat dikembalikan**  dan sisa kewajiban keuangan yang belum dilunasi harus diselesaikan.
 7. Mahasiswa yang telah memperoleh cuti studi dari Dekan FTIS namun melanggar ketentuan masa cuti dalam surat ijin tersebut, maka pada semester berikutnya di luar masa cuti yang diijinkan, mahasiswa akan dikenakan peraturan **gencat studi**.
 
@@ -1321,14 +1272,14 @@ Mahasiswa gencat studi adalah mahasiswa yang pada suatu semester tidak melakukan
 Adapun **prosedur pengaktifan kembali status mahasiswa setelah gencat studi** adalah sebagai berikut:
 
 1. Mahasiswa tersebut harus mengajukan permohonan tertulis terlebih dahulu kepada Dekan FTIS, dilengkapi dengan 
-  * alasan gencat studi pada semester sebelumnya
-  * rekomendasi dosen wali yang bersangkutan
+    * alasan gencat studi pada semester sebelumnya
+    * rekomendasi dosen wali yang bersangkutan
 2. Dekan FTIS dapat mengabulkan atau menolak permohonan mahasiswa tersebut di atas berdasarkan pertimbangan akademik.
 3. Keputusan Dekan FTIS tersebut diberitahukan pula kepada WR-1, WR-2, Kepala BAA, dan Kepala BIKEU.
 4. Dalam hal Dekan FTIS mengabulkan permohonan mahasiswa tersebut di atas, mahasiswa yang bersangkutan 
-  * Dikenakan sanksi keuangan berupa pelunasan 200% (dua ratus persen) Sumbangan Pengembangan sesuai dengan tarif yang         berlaku di lingkungan UNPAR untuk semestr seelama gencat studi.
-  * Dikenakan sanksi akademik berupa hak tempuh sebanyak 12 SKS pada semester dimana mahasiswa yang bersangkutan mulai aktif    kembali, kecuali jika diijinkan oleh Dekan FTIS untuk menempuh maksimal 18 SKS berdasarkan pertimbangan yang sah.
-  * Dapat kehilangan status sebagai mahasiswa UNPAR jika tidak memenuhi butir a. di atas.
+    * Dikenakan sanksi keuangan berupa pelunasan 200% (dua ratus persen) Sumbangan Pengembangan sesuai dengan tarif yang         berlaku di lingkungan UNPAR untuk semestr seelama gencat studi.
+    * Dikenakan sanksi akademik berupa hak tempuh sebanyak 12 SKS pada semester dimana mahasiswa yang bersangkutan mulai aktif    kembali, kecuali jika diijinkan oleh Dekan FTIS untuk menempuh maksimal 18 SKS berdasarkan pertimbangan yang sah.
+    * Dapat kehilangan status sebagai mahasiswa UNPAR jika tidak memenuhi butir a. di atas.
 
 
 
@@ -1339,8 +1290,8 @@ Prosedur pengunduran diri sebagai mahasiswa di lingkungan UNPAR adalah sebagai b
 2. Mahasiswa yang bersangkutan mengisi formulir pengunduran diri yang dapat diperoleh di Tata Usaha FTIS.
 3. Setelah mendapat persetujuan dari dosen wali, ketua jurusan / program studi, WD-2, WD-1 dan Dekan FTIS, proses permohonan pengunduran diri diteruskan ke Biro Administrasi Akademik dan Kemahasiswaan (BAA).
 4. Setelah permohonan diri mahasiswa disetujui di tingkat Universitas, mahasiswa yang bersangkutan akan menerima:
-  * SK Rektor UNPAR tentang pengunduran diri mahasiswa yang bersangkutan.
-  * Transkrip akademik yang berisi daftar nilai mata kuliah yang ditempuh selama yang bersangkutan berstatus aktif sebagai      mahasiswa.
+    * SK Rektor UNPAR tentang pengunduran diri mahasiswa yang bersangkutan.
+    * Transkrip akademik yang berisi daftar nilai mata kuliah yang ditempuh selama yang bersangkutan berstatus aktif sebagai      mahasiswa.
 
 BAB 4 EVALUASI KEBERHASILAN BELAJAR
 -------------------------------
