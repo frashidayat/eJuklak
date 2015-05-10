@@ -4,13 +4,13 @@
 
     <string name="app_name">The EJuklak</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
     <string name="imgdesc">imgdesc</string>
 
     <!-- Title -->
 
     <string-array name="titles">
-        <item>Home</item>
+        <item>Cover</item>
+        <item>Kata Pengantar</item>
         <item>Bab 1</item>
         <item>Bab 2</item>
         <item>Bab 3</item>
@@ -22,12 +22,13 @@
     <!-- Page Url -->
 
     <string-array name="pageurl">
-        <item>file:///android_asset/webhome/website/home.htm</item>
-        <item>file:///android_asset/juklak(joined).html</item>
-        <item>file:///android_asset/Bab2.html</item>
-        <item>file:///android_asset/Bab3.html</item>
-        <item>file:///android_asset/Bab4.html</item>
-        <item>file:///android_asset/Lampiran.html</item>
+        <item>file:///android_asset/juklak(joined).html#petunjuk-pelaksanaan-kegiatan-akademik-tahun-20142015</item>
+        <item>file:///android_asset/juklak(joined).html#kata-pengantar-dekan-fakultas-teknologi-informasi-dan-sains-universitas-katolik-parahyangan</item>
+        <item>file:///android_asset/juklak(joined).html#bab-1-pendahuluan</item>
+        <item>file:///android_asset/juklak(joined).html#bab-2-penyelenggaraan-mata-kuliah</item>
+        <item>file:///android_asset/juklak(joined).html#bab-3-kegiatan-akademik</item>
+        <item>file:///android_asset/juklak(joined).html#bab-4-evaluasi-keberhasilan-belajar</item>
+        <item>file:///android_asset/juklak(joined).html#lampiran-1</item>
     </string-array>
 
 
@@ -35,12 +36,13 @@
    <!-- Icons -->
 
     <array name="icons">
-        <item>@drawable/ic_launcher</item>
-        <item>@drawable/ic_launcher</item>
-        <item>@drawable/ic_launcher</item>
-        <item>@drawable/ic_launcher</item>
-        <item>@drawable/ic_launcher</item>
-        <item>@drawable/ic_launcher</item>
+        <item>@drawable/rsz_book_icon</item>
+        <item>@drawable/rsz_book_icon</item>
+        <item>@drawable/rsz_book_icon</item>
+        <item>@drawable/rsz_book_icon</item>
+        <item>@drawable/rsz_book_icon</item>
+        <item>@drawable/rsz_book_icon</item>
+        <item>@drawable/rsz_book_icon</item>
     </array>
 
 
