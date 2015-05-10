@@ -1,5 +1,4 @@
 Petunjuk Pelaksanaan Kegiatan Akademik Tahun 2014/2015
-======================================================
 
 ![](images/unpar.png)
 
@@ -26,64 +25,26 @@ Tim Penyusun
 * Pranyoto Teguh Imanto
 * Thomas Anung Basuki
 
-Copyright (c) 2014 FTIS UNPAR
+Copyright &copy; 2014 FTIS UNPAR
 
-Kata Pengantar Dekan Fakultas Teknologi Informasi dan Sains Universitas Katolik Parahyangan
--------------------------------------------------------------------------------------------
+# Kata Pengantar Dekan Fakultas Teknologi Informasi dan Sains Universitas Katolik Parahyangan
 
-Sejak berdirinya Fakultas Teknologi Informasi dan Sains (d/h Fakultas Matematika
-dan Ilmu Pengetahuan Alam) - Universitas Katolik Parahyangan pada tahun 1993,
-Fakultas berupaya untuk meningkatkan kualitas pelaksanaan Tridharma Perguruan
-Tinggi (Pengajaran - Penelitian - Pengabdian Kepada Masyarakat) secara bertahap
-dan berkesinambungan sesuai dengan visi dan misi yang diembannya. Pada tahun
-2007, Universitas Katolik Parahyangan berkomitmen untuk melaksanakan penjaminan
-mutu internal sesuai dengan ketentuan Peraturan Pemerintah Republik Indonesia
-Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan. Untuk menjamin bahwa
-standar-standar yang telah ditetapkan dalam Sistem Penjaminan Mutu Internal
-Universitas Katolik Parahyangan dapat terlaksana dengan baik, Fakultas
-menerbitkan Buku Petunjuk Pelaksanaan Kegiatan Akademik Fakultas Teknologi
-Informasi dan Sains Tahun Akademik 2013 - 2014 sebagai pedoman bagi seluruh
-civitas academica Fakultas dalam melaksanakan kegiatan akademik.
+Sejak berdirinya Fakultas Teknologi Informasi dan Sains (d/h Fakultas Matematika dan Ilmu Pengetahuan Alam) - Universitas Katolik Parahyangan pada tahun 1993, Fakultas berupaya untuk meningkatkan kualitas pelaksanaan Tridharma Perguruan Tinggi (Pengajaran - Penelitian - Pengabdian Kepada Masyarakat) secara bertahap dan berkesinambungan sesuai dengan visi dan misi yang diembannya. Pada tahun 2007, Universitas Katolik Parahyangan berkomitmen untuk melaksanakan penjaminan mutu internal sesuai dengan ketentuan Peraturan Pemerintah Republik Indonesia Nomor 19 Tahun 2005 tentang Standar Nasional Pendidikan. Untuk menjamin bahwa standar-standar yang telah ditetapkan dalam Sistem Penjaminan Mutu Internal Universitas Katolik Parahyangan dapat terlaksana dengan baik, Fakultas menerbitkan Buku Petunjuk Pelaksanaan Kegiatan Akademik Fakultas Teknologi Informasi dan Sains Tahun Akademik 2013 - 2014 sebagai pedoman bagi seluruh civitas academica Fakultas dalam melaksanakan kegiatan akademik.
 
-Berdasarkan pengalaman dalam pengelolaan Fakultas, didapati sejumlah kasus
-kegagalan dalam pelaksanaan kegiatan akademik dan administrasi yang disebabkan
-karena ketidaktahuan civitas academica pada sejumlah ketentuan akademik dan
-administratif yang berlaku. Oleh karena itu, setiap anggota civitas academica
-Fakultas diharapkan mempelajari dan memahami dengan seksama setiap ketentuan
-yang tertuang dalam buku petunjuk pelaksanaan kegiatan akademik tersebut.
-Penerbitan buku petunjuk versi terbaru akan dilakukan secara rutin pada setiap
-awal tahun akademik, sehingga civitas academica di lingkungan Fakultas
-memperoleh informasi terkini tentang tatacara pelaksanaan kegiatan akademik yang
-berlaku di lingkungan Fakultas. Dengan demikian, diharapkan civitas academica
-Fakultas selalu mengacu pada informasi-informasi yang tercantum dalam buku
-petunjuk terkini dalam melaksanakan kegiatan akademik. Apabila dalam pelaksanaan
-kegiatan akademik ditemukan hal-hal yang kurang jelas dalam buku petunjuk
-tersebut, maka civitas academica dapat menghubungi para pimpinan di lingkungan
-Fakultas untuk memperoleh penjelasan. Beberapa hal yang belum tercantum dalam
-buku petunjuk ini akan disampaikan melalui papan pengumuman serta media
-komunikasi lainnya, dan akan diakomodasi dalam buku petunjuk pelaksanaan
-kegiatan akademik tahun akademik berikutnya.
+Berdasarkan pengalaman dalam pengelolaan Fakultas, didapati sejumlah kasus kegagalan dalam pelaksanaan kegiatan akademik dan administrasi yang disebabkan karena ketidaktahuan civitas academica pada sejumlah ketentuan akademik dan administratif yang berlaku. Oleh karena itu, setiap anggota civitas academica Fakultas diharapkan mempelajari dan memahami dengan seksama setiap ketentuan yang tertuang dalam buku petunjuk pelaksanaan kegiatan akademik tersebut. Penerbitan buku petunjuk versi terbaru akan dilakukan secara rutin pada setiap awal tahun akademik, sehingga civitas academica di lingkungan Fakultas memperoleh informasi terkini tentang tatacara pelaksanaan kegiatan akademik yang berlaku di lingkungan Fakultas. Dengan demikian, diharapkan civitas academica Fakultas selalu mengacu pada informasi-informasi yang tercantum dalam buku petunjuk terkini dalam melaksanakan kegiatan akademik. Apabila dalam pelaksanaan kegiatan akademik ditemukan hal-hal yang kurang jelas dalam buku petunjuk tersebut, maka civitas academica dapat menghubungi para pimpinan di lingkungan Fakultas untuk memperoleh penjelasan. Beberapa hal yang belum tercantum dalam buku petunjuk ini akan disampaikan melalui papan pengumuman serta media komunikasi lainnya, dan akan diakomodasi dalam buku petunjuk pelaksanaan kegiatan akademik tahun akademik berikutnya.
 
-Semoga buku petunjuk ini dapat membantu kelancaran pelaksanaan kegiatan
-akademik, yang selanjutnya akan berdampak pada peningkatan kualitas pembelajaran
-yang berkesinambungan. Setiap kritik dan saran berkaitan dengan penyempurnaan
-buku ini sangat kami harapkan dan hargai.
+Semoga buku petunjuk ini dapat membantu kelancaran pelaksanaan kegiatan akademik, yang selanjutnya akan berdampak pada peningkatan kualitas pembelajaran yang berkesinambungan. Setiap kritik dan saran berkaitan dengan penyempurnaan buku ini sangat kami harapkan dan hargai.
 
 Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilkan.
 
+**Bandung**,
+**Dekan**,
+
+**Paulus Cahyono Tjiang, Ph.D.**
 
 
-#####Bandung,     
-#####Dekan,
-
-
-#####Paulus Cahyono Tjiang, Ph.D.
-
-
-BAB 1 PENDAHULUAN
-------------------
-
-#### 1.1 Sejarah Fakultas Teknologi Informasi dan Sains
+# BAB 1 PENDAHULUAN
+## 1.1 Sejarah Fakultas Teknologi Informasi dan Sains
 
 Fakultas Teknologi Informasi dan Sains (FTIS) Universitas Katolik Parahyangan
 (UNPAR) berawal dari Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA).
@@ -109,17 +70,11 @@ tanggal 1 April 2009.
 
 Ketiga program studi tersebut saat ini telah memperoleh status akreditasi dari
 Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT) dengan rincian sebagai
-berikut:
+berikut:  
 
-* Program Studi Matematika memperoleh status akreditasi dengan peringkat A
-  (Amat baik) berdasarkan Keputusan BAN-PT Nomor029/BAN-PT/Ak-XIII/S1/XI/2010
-  tertanggal 3 Desember 2010 dengan masa berlaku hingga 3 Desember 2015. 
-* Program Studi Fisika memperoleh status akreditasi dengan peringkat B (Baik)
-  berdasarkan Keputusan BAN-PTNomor036/BAN-PT/AK-XIII/S1/I/2011 tertanggal 7
-  Januari 2011 dengan masa berlaku hingga 7 Januari 2016. 
-* Program Studi Teknik Informatika memperoleh status akreditasi dengan peringkat
-  B (Baik) berdasarkan Keputusan BAN-PTNomor 042/BAN-PT/Ak-XIII/S1/I/2011
-  tertanggal 21 Januari 2011 dengan masa berlaku hingga 21 Januari 2016
+* Program Studi Matematika memperoleh status akreditasi dengan peringkat A (Amat baik) berdasarkan Keputusan BAN-PT Nomor029/BAN-PT/Ak-XIII/S1/XI/2010 tertanggal 3 Desember 2010 dengan masa berlaku hingga 3 Desember 2015. 
+* Program Studi Fisika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PTNomor036/BAN-PT/AK-XIII/S1/I/2011 tertanggal 7 Januari 2011 dengan masa berlaku hingga 7 Januari 2016. 
+* Program Studi Teknik Informatika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PTNomor 042/BAN-PT/Ak-XIII/S1/I/2011 tertanggal 21 Januari 2011 dengan masa berlaku hingga 21 Januari 2016
 
 Ketiga program studi yang sekarang berada dalam naungan FTIS ini dilaksanakan
 berdasarkan suatu kurikulum yang berbobot 144 sks (satuan kredit semester)
@@ -133,18 +88,14 @@ Visi dan Misi FTIS - UNPAR mengacu pada visi dan misi UNPAR. Visi UNPAR adalah
 > mengembangkan potensi lokal pada tataran internasional demi peningkatan martabat
 > manusia dan keutuhan alam ciptaan.
 
-Sebagai sebuah lembaga ilmiah, misi UNPAR adalah melaksanakan
+Sebagai sebuah lembaga ilmiah, misi UNPAR adalah melaksanakan  
 
 * pengembangan dan pewarisan nilai budaya secar kritis - kreatif;
 * proses pembelajaran yang berpusat pada mahasiswa;
-* penelitian dan penyebarluasan hasilnya melalui proses pembelajaran dan
-  pengabdian kepada masyarakat; dan
+* penelitian dan penyebarluasan hasilnya melalui proses pembelajaran dan pengabdian kepada masyarakat; dan
 * pengabdian kepada masyarakat,
 
-sesuai dengan sesanti Bakuning Hyang Mrih Guna Santyaya Bhakti, yang berarti
-Berdasarkan Ketuhanan Menuntut Ilmu untuk Dibaktikan kepada Masyarakat.
-Melalui visi dan misi UNPAR, dirumuskanlah visi dan misi beserta tujuan FTIS
-UNPAR.
+sesuai dengan sesanti *Bakuning Hyang Mrih Guna Santyaya Bhakti*, yang berarti Berdasarkan Ketuhanan Menuntut Ilmu untuk Dibaktikan kepada Masyarakat. Melalui visi dan misi UNPAR, dirumuskanlah visi dan misi beserta tujuan FTIS UNPAR.
 
 #### 1.2.1 VISI FTIS
 
