@@ -120,14 +120,14 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 
 ## 1.4 Pengelolah Fakultas  
 
-1. Senat FTIS
+**Senat FTIS**
 
 |   Jabatan  |                  Nama                 |
 |------------|---------------------------------------|
 |      Ketua | Agus Sukmana, SSi, MSc                |
 | Sekretaris | Philips Nicolas Gunawidjaja, BSc, PhD |
 
-2. Dekanat
+**Dekanat**
 
 |                                   Jabatan | Nama                                            |
 |-------------------------------------------|-------------------------------------------------|
@@ -136,14 +136,14 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 |        WD II (Keuangan dan Sumberdaya)    |    Maria Anestasia, SSi, MSi                    |
 |    WD III   (Kemahasiswaan dan Alumni)    |    Dr.rer.nat. Cecilia E.   Nugraheni, ST,MT    |
 
-3. Program Studi Matematika
+**Program Studi Matematika**
 
 |   Jabatan  |                  Nama                 |
 |------------|---------------------------------------|
 |      Ketua | Dr. Ferry Jaya Permana                |
 | Sekretaris | Livia Owen, SSi, MSi |
 
-4. Program Studi Fisika
+**Program Studi Fisika**
 
 |                                   Jabatan | Nama                                            |
 |-------------------------------------------|-------------------------------------------------|
@@ -151,7 +151,7 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 |                    KaLab. Fisika Dasar    |    Risti Suryantari, S.Si., M.Si.               |
 |     KaLab. Elektronika &amp; Fisika Lanjut    |    Janto V. Sulungbudi, Drs.                    |
 
-5. Program Studi Teknik Informatika
+**Program Studi Teknik Informatika**
 
 |                                   Jabatan | Nama                                            |
 |-------------------------------------------|-------------------------------------------------|
@@ -160,7 +160,7 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 |                       KaLab. Komputasi    |    Chandra Wijaya, ST, MT                       |
 |    WD III   (Kemahasiswaan dan Alumni)    |    Dr.rer.nat. Cecilia E. Nugraheni, ST,MT      |
 
-6. Tata Usaha
+**Tata Usaha**
 
 |                                Jabatan | Nama                        |
 |----------------------------------------|-----------------------------|
@@ -175,13 +175,13 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 
 Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan *website*.  
 
-1. Guru Besar
+**Guru Besar**
 
 | No.  | Dosen                                                                                                                                                                                                                        |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.   | __Prof B. Suprapto Brotosiswojo, Dr. (Purdue University,USA)__ _Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam._ Email : bensupra@unpar.ac.id                                                        |
 
-2. Lektor Kepala
+**Lektor Kepala**
 
 | No.  | Dosen                                                                                                                                                                                                                        |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -197,7 +197,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 | 10.  | __Marcus Wono Setya Budhi, PhD (Univ. of Illinois  USA)__ _Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar._ Email : wono@math.itb.ac.id                                                                          |
 | 11.  | __Veronica Sri Moertini, ST (ITB), MT (ITB), Dr. (ITB)__ _Basis Data, Penambangan Data, Projek Sistem Informasi._ Email : moertini@unpar.ac.id                                                                                     |
 	
-3. Lektor
+**Lektor**
 
 | No. | Dosen                                                                                                                                                                                                  |
 |-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -209,7 +209,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 | 6.  | __Rosa de Lima E.P., SSi (ITB), MT (ITB), Studi S-3 di UPI__: _Sistem Informarsi, Sistem Pendukung Keputusan._ Email: rosad5@unpar.ac.id                                                                     |
 | 7.  | __Farah Kristiani, SSi (UNPAR), MSi (ITB), Studi S-3 Matematika di Universiti Pendidikan Sultan Idris, Malaysia.__ Email: farah@unpar.ac.id.                                                               |
 	
-4. Asisten Ahli
+**Asisten Ahli**
 
 |  No. |           Dosen                                                                            Dosen                                                                                           |
 |----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -224,7 +224,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 | 9.   | __Thomas Anung Basuki, ST (ITB), MKom (UI), Dr. (University of Pisa  Italia)__ _Pengantar Sistem Cerdas, Rekayasa Perangkat Lunak, Penulisan Ilmiah._ Email : anung@unpar.ac.id                 |
 | 10.  | __Maria Anestasia, SSi (ITB), MSi (ITB)__ _Kalkulus 2, Persamaan Diferensial Biasa, Kalkulus Vektor._ Email : maria.anestasia@unpar.ac.id    
 
-5. Golongan III
+**Golongan III**
 
 |  No. |    Dosen                                                                                   Dosen                                                                                           |
 |----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -662,8 +662,6 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 |9	|Seminar dan Skripsi	|
 |10	|Kuliah Dasar, Keterampilan Umum, Lain-Lain	|
 
-### 2.6.2 Mata Kuliah Pilihan Program Studi Fisika
-
 **Lain-lain**
 
 |KODE	|NAMA					|SKS	|
@@ -671,6 +669,8 @@ Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 |APS301	|Filsafat Sains				|2	|
 |APS302	|Dunia Digital dan Sains		|2	|
 |APS 303|Didaktika Umum				|3	|
+
+### 2.6.2 Mata Kuliah Pilihan Program Studi Fisika
 
 **Kelompok Fisika Teoretik**
 
@@ -1296,7 +1296,7 @@ Apabila seorang mahasiswa tidak dapat memenuhi salah satu komponen evaluasi yang
 Konversi **Angka Akhir (AA)** menjadi **Nilai Akhir (NA)** dilakukan dengan **Penilaian Acuan Patokan (PAP)** sebagai berikut :  
 
 | AA       | NA | BOBOT NA |
-|----------|----|----------|
+|:--------:|:--:|:--------:|
 | 80 – 100 | A  | 4        |
 | 70 – 79  | B  | 3        |
 | 60 – 69  | C  | 2        |
