@@ -185,29 +185,29 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 
 | No.  | Dosen                                                                                                                                                                                                                        |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.   | __Agus Sukmana, Drs. (ITB), MSc (Twente Univ.  Belanda), studi S-3 (UPI)__ _Teori Peluang, Pengendalian Mutu, Statistika Elementer._ Email : asukmana@unpar.ac.id                                                                 |
+| 1.   | __Agus Sukmana, Drs. (ITB), MSc (Twente Univ. - Belanda), studi S-3 (UPI)__ _Teori Peluang, Pengendalian Mutu, Statistika Elementer._ Email : asukmana@unpar.ac.id                                                                 |
 | 2.   | __Aloysius Rusli, Dr. (Leeds University, UK)__ _Fisika Polimer, Pengenalan Program Studi Fisika,Etika Profesi, Reologi._ Email : arusli@unpar.ac.id                                                                                |
 | 3.   | __Benny Yong, SSi. (UNPAR), MSi. (ITB)__ _Pemecahan Masalah Matematika, Teori Bilangan, Pemodelan Matematika._ Email : benny_y@unpar.ac.id.                                                                                        |
-| 4.   | __Ferry Jaya Permana, SSi (ITB), MSi (ITB), PhD (TU Delft -,Belanda)__ _Teori Risiko, Teori Suku Bunga, Kalkulus Keuangan._ Email : ferryjp@unpar.ac.id.                                                                           |
+| 4.   | __Ferry Jaya Permana, SSi (ITB), MSi (ITB), PhD (TU Delft - Belanda)__ _Teori Risiko, Teori Suku Bunga, Kalkulus Keuangan._ Email : ferryjp@unpar.ac.id.                                                                           |
 | 5.   | __Iwan Sugiarto, SSi (UNPAR), MSi (ITB)__ _Metoda Matematika, Fungsi Kompleks, Optimasi._ Email : iwans@unpar.ac.id                                                                                                                |
 | 6.   | __Julius Dharma Lesmono, SSi (ITB), SE (UNPAR), MT (ITB), MSc (Twente,University - Belanda), Dr. (University of Queenslands - Australia)__ _Proses Stokastik, Statistika Matematika, Kontrol Optimum._ Email : jdharma@unpar.ac.id |
-| 7.   | __Nico Saputro, ST (ITB), MT (ITB), Studi S-3 (Univ. of Illinois  USA).__ Email : nico@unpar.ac.id                                                                                                                                |
+| 7.   | __Nico Saputro, ST (ITB), MT (ITB), Studi S-3 (Univ. of Illinois - USA).__ Email : nico@unpar.ac.id                                                                                                                                |
 | 8.   | __Paulus Cahyono Tjiang, Drs. (ITB), PhD (Australian National University)__ _Listrik Magnet, Elektrodinamika, Mekanika Kuantum Relativistik, Teori Medan Kuantum._ Email : pctjiang@unpar.ac.id                                    |
 | 9.   | __Sylvia Hastuti Sutanto, Ssi (ITB), PhD (Australian National University)__ _Fisika Matematika 3 & 4, Mekanika Hamiltonian, Dinamika Fluida._ Email : sylvia@unpar.ac.id                                                            |
-| 10.  | __Marcus Wono Setya Budhi, PhD (Univ. of Illinois  USA)__ _Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar._ Email : wono@math.itb.ac.id                                                                          |
-| 11.  | __Veronica Sri Moertini, ST (ITB), MT (ITB), Dr. (ITB)__ _Basis Data, Penambangan Data, Projek Sistem Informasi._ Email : moertini@unpar.ac.id                                                                                     |
+| 10.  | __Marcus Wono Setya Budhi, PhD (Univ. of Illinois - USA)__ _Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar._ Email : wono@math.itb.ac.id                                                                          |
+| 11.  | __Veronica Sri Moertini, ST (ITB), MT (ITB), Dr. (ITB)__ _Basis Data, Penambangan Data, Projek Sistem Informasi._ Email : moertini@unpar.ac.id
 	
 **Lektor**
 
 | No. | Dosen                                                                                                                                                                                                  |
 |-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.  | __Cecilia Esti Nugraheni, ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians Universitaet  Germany)__:  _Matematika Diskret, Jaringan Syaraf Tiruan._ Email: cheni@unpar.ac.id |
+| 1.  | __Cecilia Esti Nugraheni, ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians Universitaet - Germany)__:  _Matematika Diskret, Jaringan Syaraf Tiruan._ Email: cheni@unpar.ac.id |
 | 2.  | __Erwinna Chendra, SSi(UNPAR), MSi(ITB), Studi S-3 Matematika di ITB.__ Email: erwinna@unpar.ac.id.  Website: http://www.unpar.ac.id/erwinna                                                               |
 | 3.  | __Liem Chin, SSi.(UNPAR), MSi.(ITB)__: _Matematika Diskret, Aljabar Linear, Komputasi Statistika._ Email: chin@unpar.ac.id.                                                                                  |
 | 4.  | __Oerip S. Santoso, dr (UI), MSc. (Univ. Wisconsin Madison.USA), Dr.(Univ. Paris VI)__: _Struktur Diskret, Grafika Komputer, Komputer dan Masyarakat, Projek Perangkat Lunak._ Email: oerip_ss@yahoo.com     |
 | 5.  | __Philips Nicolas Gunawidjaja, BSc. (University of Warwick,UK), PhD. (University of Warwick, UK)__: _Keterampilan Fisika, Elektronika 1 & 2, Struktur Materi._ Email: philips@UNPAR.ac.id.                   |
 | 6.  | __Rosa de Lima E.P., SSi (ITB), MT (ITB), Studi S-3 di UPI__: _Sistem Informarsi, Sistem Pendukung Keputusan._ Email: rosad5@unpar.ac.id                                                                     |
-| 7.  | __Farah Kristiani, SSi (UNPAR), MSi (ITB), Studi S-3 Matematika di Universiti Pendidikan Sultan Idris, Malaysia.__ Email: farah@unpar.ac.id.                                                               |
+| 7.  | __Farah Kristiani, SSi (UNPAR), MSi (ITB), Studi S-3 Matematika di Universiti Pendidikan Sultan Idris, Malaysia.__ Email: farah@unpar.ac.id.
 	
 **Asisten Ahli**
 
@@ -215,14 +215,14 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 |----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.   | __Elisati Hulu, ST (ITB), MT (ITB), Studi S-3 di ITB.__  Email : elisatih@unpar.ac.id                                                                                                          |
 | 2.   | __Gede Karya, ST (ITB), MT (ITB)__ _Pemrograman Aplikasi Bergerak, Analisis Proses Bisnis._ Email : gkarya@unpar.ac.id                                                                           |
-| 3.   | __Ivonne Martin, SSi (UNPAR), MSc. (TU Delft  Belanda) Studi S-3 Matematika di Leiden University, Belanda.__  Email : ivonne@unpar.ac.id                                                      |
+| 3.   | __Ivonne Martin, SSi (UNPAR), MSc. (TU Delft - Belanda) Studi S-3 Matematika di Leiden University, Belanda.__  Email : ivonne@unpar.ac.id                                                      |
 | 4.   | __Janto Vincent Sulungbudi, SSi (ITB)__ _Laboratorium Fisika Instrumentasi, Instrumentasi Berbasis Komputer, Pengantar Kontrol Otomatis._ Email : janto@UNPAR.ac.id, janto.sulungbudi@gmail.com. |
-| 5.   | __Lionov, SKom (UNPAR), MSc. (Utrecht Univ.  Belanda)__ _Pemrograman Berorientasi Objek, Algoritma dan Struktur Data, Koordinator Skripsi._ Email : lionov@unpar.ac.id                          |
+| 5.   | __Lionov, SKom (UNPAR), MSc. (Utrecht Univ. - Belanda)__ _Pemrograman Berorientasi Objek, Algoritma dan Struktur Data, Koordinator Skripsi._ Email : lionov@unpar.ac.id                          |
 | 6.   | __Livia Owen, SSi (UNPAR), MSi (ITB)__ _Kalkulus Vektor, Komputasi Matematika, Fisika Matematik II._ Email : livia.owen@unpar.ac.id                                                              |
 | 7.   | __Luciana Abednego, SKom (UNPAR), MT (ITB)__ _Logika Informatika, Algoritma dan Struktur Data, Grafika Komputer._ Email : luciana@unpar.ac.id                                                    |
 | 8.   | __Taufik Limansyah, SSi (UNPAR), Studi S-2 Teknik Industri di UNPAR__ _Kalkulus 1, Kalkulus II, Fisika Matematik 1._ Email : taufik.limansyah@unpar.ac.id                                        |
-| 9.   | __Thomas Anung Basuki, ST (ITB), MKom (UI), Dr. (University of Pisa  Italia)__ _Pengantar Sistem Cerdas, Rekayasa Perangkat Lunak, Penulisan Ilmiah._ Email : anung@unpar.ac.id                 |
-| 10.  | __Maria Anestasia, SSi (ITB), MSi (ITB)__ _Kalkulus 2, Persamaan Diferensial Biasa, Kalkulus Vektor._ Email : maria.anestasia@unpar.ac.id    
+| 9.   | __Thomas Anung Basuki, ST (ITB), MKom (UI), Dr. (University of Pisa - Italia)__ _Pengantar Sistem Cerdas, Rekayasa Perangkat Lunak, Penulisan Ilmiah._ Email : anung@unpar.ac.id                 |
+| 10.  | __Maria Anestasia, SSi (ITB), MSi (ITB)__ _Kalkulus 2, Persamaan Diferensial Biasa, Kalkulus Vektor._ Email : maria.anestasia@unpar.ac.id
 
 **Golongan III**
 
@@ -365,7 +365,8 @@ __Semester 1__
 | APS181 |         Fisika Dasar         |  R,P  |  4  |   
 | MKU012 |            Logika            |   R   |  2  |   
 | MKU010 |        Bahasa Inggris        |       |  2  |   
-|        |                              | Total | 19  |   
+
+Total SKS = 19
 
 __Semester 2__
 
@@ -377,7 +378,8 @@ __Semester 2__
 | AIF112 | Pemrograman Komputer |       |  3  |
 | MKU011 |       Estetika       |       |  2  |
 | MKU003/MKU004 |    Agama Katolik/Fenomologi Agama   |       |  2  |
-|        |                      | Total | 19  |
+
+Total SKS = 19
 
 __Semester 3__
 
@@ -389,7 +391,8 @@ __Semester 3__
 | APS253 | Komputasi Statistika |       |  2  |   
 | AMS271 |   Metode Matematika  |       |  3  |   
 | MKU008 |         Etika        |   R   |  2  |   
-|        |                      | Total | 18  |   
+
+Total SKS = 18
 
 __Semester 4__
 
@@ -400,7 +403,8 @@ __Semester 4__
 | AMS261 |           Optimasi          |       |  4  |
 | AMS272 | Persamaan Diferensial Biasa |       |  4  |
 | AMS273 |     Komputasi Matematika    |       |  2  |
-|        |                             | Total | 19  |
+
+Total SKS = 18
 
 __Semester 5__
 
@@ -411,7 +415,8 @@ __Semester 5__
 | AMS373 |       Metode Numerik       |       |  3  |   
 | MKU002 | Pendidikan Kewarganegaraan |       |  2  |   
 | ABCXYZ |           Pilihan          |       |  6  |   
-|        |                            | Total | 19  |   
+
+Total SKS = 19
 
 __Semester 6__
 
@@ -420,7 +425,8 @@ __Semester 6__
 | AMS322 |   Analisis Real  |   R   |  4  |
 | MKU009 | Bahasa Indonesia |       |  2  |
 | ABCXYZ |      Pilihan     |       |  12 |
-|        |                  | Total | 18  |
+
+Total SKS = 18
 
 __Semester 7__
 
@@ -430,7 +436,8 @@ __Semester 7__
 | AMS491 | Pemodelan Matematika |       |  4  |   
 | MKU001 |       Pancasila      |       |  2  |   
 | ABCXYZ |        Pilihan       |       |  9  |   
-|        |                      | Total | 18  |   
+
+Total SKS = 18
 
 __Semester 8__
 
@@ -438,7 +445,8 @@ __Semester 8__
 |:------:|------------------------------|:-----:|:---:|	   
 | AMS499 |   Skripsi  |       |  6  |
 | ABCXYZ |   Pilihan  |       |  9  |
-|        |            | Total | 15  |
+
+Total SKS = 15
 
 ### 2.5.2 Mata Kuliah Pilihan Program Studi Matematika
 
@@ -564,7 +572,8 @@ __Semester 1__
 | AIF111 | Pemrograman Komputer     |      P     |  3  |	
 | ICE109 | Kimia Dasar              |            |  2  |	
 | MKU011 | Estetika                 |            |  2  |	
-|        |                          |      TOTAL |  19 |	
+
+Total SKS = 19	
 
 __Semester 2__
 
@@ -576,7 +585,8 @@ __Semester 2__
 | APS124 | Fisika Modern	        |            |  3  |
 | AIF132 | Fisika Komputasi	        |      P     |  3  |
 | MKU012 | Logika	                |            |  2  |
-|        |                          |      TOTAL |  19 |
+
+Total SKS = 19
 
 __Semester 3__
 
@@ -588,7 +598,8 @@ __Semester 3__
 | APS225 | Lab. Fisika Modern       |      P     |  3  |	
 | AIF233 | Elektronika 1	        |      P     |  3  |	
 | MKU003/MKU004 | Agama Katolik/Fenomenologi Agama  |     |  2  |	
-|        |                          |      TOTAL |  18 |	
+
+Total SKS = 18	
 
 __Semester 4__
 
@@ -600,7 +611,8 @@ __Semester 4__
 | APS222 | Listrik Modern	        |      R     |  4  |
 | APS234 | Elektronika 2	        |      P     |  3  |
 | MKU010 | Bahasa inggris           |            |  2  |
-|        |                          |      TOTAL |  18 |
+
+Total SKS = 18
 
 __Semester 5__
 
@@ -612,7 +624,8 @@ __Semester 5__
 |APS341	 |Pengantar Fisika Nuklir	|            |  3  |	
 |MKU008	 |Etika		                |            |  2  |	
 |	     |Mata Kuliah Pilihan		|            |  3  |	
-|		 |							|		TOTAL|	18 |	
+
+Total SKS = 18	
 
 __Semester 6__
 
@@ -625,7 +638,8 @@ __Semester 6__
 |APS392	 | Seminar					|			 |	2  |
 |MKU009	 | Bahasa Indonesia			|			 |	2  |
 |		 | Mata Kuliah Pilihan		|			 |	3  |
-|		 |							|		TOTAL|	19 |
+
+Total SKS = 19
 
 __Semester 7__
 
@@ -635,7 +649,8 @@ __Semester 7__
 |MKU001	 | Pancasila		        |            |  2  |	
 |MKU002	 | Kewarganegaraan		    |            |  2  |	
 |        | Mata Kuliah Pilihan		|            |  9  |	
-|        |                          |       TOTAL|	17 |	
+
+Total SKS = 17	
 
 __Semester 8__
 
@@ -645,7 +660,8 @@ __Semester 8__
 | APS498 | Tugas Akhir 2		    |            |  4  |
 | SAB315 | Kewirausahaan		    |            |  3  |
 |		 | Mata Kuliah Pilihan		|            |  9  |
-|	     |                          |       TOTAL| 18  |
+
+Total SKS = 18
 
 Kode kelompok mata kuliah (digit numerik kedua dalam kode kuliah):
 
@@ -810,7 +826,8 @@ __Semester 1__
 | MKU001 | Pendidikan Pancasila           |       | 2   |   
 | MKU008 | Etika                          |       | 2   |   
 | MKU010 | Bahasa Inggris                 |       | 2   |   
-|        |                                | TOTAL | 18  |   
+
+Total SKS = 18
 
 __Semester 2__
 
@@ -822,7 +839,8 @@ __Semester 2__
 | AMS100 | Matematika Informatika      |       | 4   |
 | MKU009 | Bahasa Indonesia            |       | 2   |
 | MKU011 | Estetika                    |       | 2   |
-|        |                             | TOTAL | 18  |
+
+Total SKS = 18
 
 __Semester 3__
 
@@ -834,7 +852,8 @@ __Semester 3__
 | AMS200   | Probabilitas dan Statistika            |       | 3   |   
 | MKU003/4 | Agama Katolik / Fenomenologi Agama     |       | 2   |   
 | MKU012   | Logika                                 |       | 2   |   
-|          |                                        | TOTAL | 18  |   
+
+Total SKS = 18
 
 __Semester 4__
 
@@ -845,7 +864,8 @@ __Semester 4__
 | AIF206 | Sistem Operasi                    |       | 4   |
 | AIF208 | Rekayasa Perangkat Lunak          |       | 4   |
 | AIF210 | Interaksi Manusi Komputer         |       | 2   |
-|        |                                   | TOTAL | 18  |
+
+Total SKS = 18
 
 __Semester 5__
 
@@ -860,7 +880,8 @@ __Semester 5__
 | AIF317 | Desain Antarmuka Grafis (1)  | R     | 2   |   
 | AIFXXX | MK Pilihan                   |       | 2   |   
 | MKU002 | Kewarganegaraan              |       | 2   |   
-|        |                              | TOTAL | 18  |   
+
+Total SKS = 18
 
 __Semester 6__
 
@@ -874,7 +895,8 @@ __Semester 6__
 | AIF316  | Komputasi Paralel (1)         | R     | 2   |
 | AIF318  | Pemrograman Aplikasi Bergerak | R     | 2   |
 | AIFXXX  | MK Pilihan                    |       | 6   |
-|         |                               | TOTAL | 18  |
+
+Total SKS = 18
 
 __Semester 7__
 
@@ -884,7 +906,8 @@ __Semester 7__
 | AIF403 | Komputer dan Masyarakat       |       | 3   |   
 | AIF405 | Proyek Sistem Informasi 2 (2) |       | 3   |   
 | AIFXXX | MK Pilihan                    |       | 12  |   
-|        |                               | TOTAL | 18  |   
+
+Total SKS = 18
 
 __Semester 8__
 
@@ -892,10 +915,10 @@ __Semester 8__
 |:------:|--------------------------------|:-----:|:---:|
 | KODE   | NAMA          | APR   | SKS |
 | AIF402 | Skripsi 2     |       | 6   |
-| AIF402 | Skripsi 2     |       | 6   |
 | AIFXXX | MK Pilihan    |       | 10  |
 | APS402 | Etika Profesi |       | 2   |
-|        |               | TOTAL | 18  |
+
+Total SKS = 18
 
 Keterangan :
 
