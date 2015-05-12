@@ -183,19 +183,19 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 
 **Lektor Kepala**
 
-| No.  | Dosen                                                                                                                                                                                                                        |
-|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.   | __Agus Sukmana, Drs. (ITB), MSc (Twente Univ. - Belanda), studi S-3 (UPI)__ _Teori Peluang, Pengendalian Mutu, Statistika Elementer._ Email : asukmana@unpar.ac.id                                                                 |
-| 2.   | __Aloysius Rusli, Dr. (Leeds University, UK)__ _Fisika Polimer, Pengenalan Program Studi Fisika,Etika Profesi, Reologi._ Email : arusli@unpar.ac.id                                                                                |
-| 3.   | __Benny Yong, SSi. (UNPAR), MSi. (ITB)__ _Pemecahan Masalah Matematika, Teori Bilangan, Pemodelan Matematika._ Email : benny_y@unpar.ac.id.                                                                                        |
-| 4.   | __Ferry Jaya Permana, SSi (ITB), MSi (ITB), PhD (TU Delft - Belanda)__ _Teori Risiko, Teori Suku Bunga, Kalkulus Keuangan._ Email : ferryjp@unpar.ac.id.                                                                           |
-| 5.   | __Iwan Sugiarto, SSi (UNPAR), MSi (ITB)__ _Metoda Matematika, Fungsi Kompleks, Optimasi._ Email : iwans@unpar.ac.id                                                                                                                |
-| 6.   | __Julius Dharma Lesmono, SSi (ITB), SE (UNPAR), MT (ITB), MSc (Twente,University - Belanda), Dr. (University of Queenslands - Australia)__ _Proses Stokastik, Statistika Matematika, Kontrol Optimum._ Email : jdharma@unpar.ac.id |
-| 7.   | __Nico Saputro, ST (ITB), MT (ITB), Studi S-3 (Univ. of Illinois - USA).__ Email : nico@unpar.ac.id                                                                                                                                |
-| 8.   | __Paulus Cahyono Tjiang, Drs. (ITB), PhD (Australian National University)__ _Listrik Magnet, Elektrodinamika, Mekanika Kuantum Relativistik, Teori Medan Kuantum._ Email : pctjiang@unpar.ac.id                                    |
-| 9.   | __Sylvia Hastuti Sutanto, Ssi (ITB), PhD (Australian National University)__ _Fisika Matematika 3 & 4, Mekanika Hamiltonian, Dinamika Fluida._ Email : sylvia@unpar.ac.id                                                            |
-| 10.  | __Marcus Wono Setya Budhi, PhD (Univ. of Illinois - USA)__ _Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar._ Email : wono@math.itb.ac.id                                                                          |
-| 11.  | __Veronica Sri Moertini, ST (ITB), MT (ITB), Dr. (ITB)__ _Basis Data, Penambangan Data, Projek Sistem Informasi._ Email : moertini@unpar.ac.id
+| No | Dosen                       |
+|----|-----------------------------|
+| 1  | Agus Sukmana, Drs. (ITB), MSc (Twente Univ. - Belanda), studi S-3 (UPI) Teori Peluang, Pengendalian Mutu, Statistika Elementer. Email : asukmana@unpar.ac.id                  |
+| 2  | Aloysius Rusli, Dr. (Leeds University, UK) Fisika Polimer, Pengenalan Program Studi Fisika,Etika Profesi, Reologi. Email : arusli@unpar.ac.id |
+| 3  | Benny Yong, SSi. (UNPAR), MSi. (ITB) Pemecahan Masalah Matematika, Teori Bilangan, Pemodelan Matematika. Email : benny_y@unpar.ac.id.         |
+| 4  | erry Jaya Permana, SSi (ITB), MSi (ITB), PhD (TU Delft - Belanda) Teori Risiko, Teori Suku Bunga, Kalkulus Keuangan. Email : ferryjp@unpar.ac.id.         |
+| 5  | Iwan Sugiarto, SSi (UNPAR), MSi (ITB) Metoda Matematika, Fungsi Kompleks, Optimasi. Email : iwans@unpar.ac.id                  |
+| 6  | Julius Dharma Lesmono, SSi (ITB), SE (UNPAR), MT (ITB), MSc (Twente,University - Belanda), Dr. (University of Queenslands - Australia) Proses Stokastik, Statistika Matematika, Kontrol Optimum. Email : jdharma@unpar.ac.id                 |
+| 7  | Nico Saputro, ST (ITB), MT (ITB), Studi S-3 (Univ. of Illinois - USA). Email : nico@unpar.ac.id    |
+| 8  | Paulus Cahyono Tjiang, Drs. (ITB), PhD (Australian National University) Listrik Magnet, Elektrodinamika, Mekanika Kuantum Relativistik, Teori Medan Kuantum. Email : pctjiang@unpar.ac.id      |
+| 9  | Sylvia Hastuti Sutanto, Ssi (ITB), PhD (Australian National University) Fisika Matematika 3 & 4, Mekanika Hamiltonian, Dinamika Fluida. Email : sylvia@unpar.ac.id                  |
+| 10 | Marcus Wono Setya Budhi, PhD (Univ. of Illinois - USA) Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar. Email : wono@math.itb.ac.id                 |
+| 11 | Veronica Sri Moertini, ST (ITB), MT (ITB), Dr. (ITB) Basis Data, Penambangan Data, Projek Sistem Informasi. Email : moertini@unpar.ac.id                 |
 	
 **Lektor**
 
